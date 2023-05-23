@@ -1,4 +1,4 @@
-baseURL = "https://zoex308.github.io"
+baseURL = "https://ellifteria.github.io"
 languageCode = "en-us"
 title = "Elli Beres"
 theme = "cactus"
@@ -60,19 +60,18 @@ weight = 4
     info:
         name: Elli
             translation: Έλλη
-        long_name: Eleftheria
+        full_name: Eleftheria
             translation: Ελευθερία
         pronouns: (she/her/hers)
         position: Undergraduate Student Researcher
             institution: Northwestern University
             major(s):
-                - Math
                 - Computer Science
+                - Math
         interests:
-            - algorithms
+            - algorithm design
+            - computation and complexity theory
             - dynamic systems
-            - geometry
-            - topology
             - graph theory
         supporter_of:
             - free and open-source software (FOSS)
