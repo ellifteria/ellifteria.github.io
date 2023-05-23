@@ -85,7 +85,7 @@ weight = 4
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
   showProjectsList = false # show projects list by default (if projects data file exists).
-  projectsUrl = "https://github.com/zoex308" # title link for projects list
+  projectsUrl = "https://github.com/ellifteria" # title link for projects list
   beliefsDescription = """
   ```yaml
     ---
@@ -123,7 +123,7 @@ weight = 4
   # https://fontawesome.com/icons?d=gallery&s=brands
   [[params.social]]
     name = "github"
-    link = "https://github.com/zoex308"
+    link = "https://github.com/ellifteria"
 #   [[params.social]]
 #     name = "linkedin"
 #     link = "https://www.linkedin.com/company/github/"
