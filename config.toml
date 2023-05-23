@@ -71,7 +71,7 @@ weight = 4
         interests:
             - algorithm design
             - computation and complexity theory
-            - dynamic systems
+            - distributed and parallel computing
             - graph theory
         supporter_of:
             - free and open-source software (FOSS)
