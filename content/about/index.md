@@ -13,4 +13,4 @@ I'm passionate about mathematical computer science research. I'm very interested
 
 My current work is focused on evolutionary computation in artificial intelligence. As a member of the [Xenobot Lab](https://www.xenobot.group), I'm investigating evolutionary algorithms and open-endedness in artificial intelligence and artificial life. You can see some of my work on [my GitHub](https://www.github.com/ellifteria)!
 
-I previously worked in the [Leonard Lab](https://www.leonard.northwestern.edu) where I  developed an [open-source software package](https://www.github.com/zoex308/pyflowbat) for analyzing flow cytometry data, specifically for mammalian synthetic biology applications. I also did a bit of wet-lab work characterizing mammalian synthetic transcription factors.
+I previously worked in the [Leonard Lab](https://www.leonard.northwestern.edu) where I  developed an [open-source software package](https://www.github.com/ellifteria/pyflowbat) for analyzing flow cytometry data, specifically for mammalian synthetic biology applications. I also did a bit of wet-lab work characterizing mammalian synthetic transcription factors.
