@@ -124,9 +124,9 @@ weight = 4
   [[params.social]]
     name = "github"
     link = "https://github.com/ellifteria"
-#   [[params.social]]
-#     name = "linkedin"
-#     link = "https://www.linkedin.com/company/github/"
+  [[params.social]]
+    name = "mastodon"
+    link = "https://floss.social/@ellifteria"
 #   [[params.social]]
 #     name = "email"
 #     link = "example@example.com"  # no need for "mailto:" in the head
