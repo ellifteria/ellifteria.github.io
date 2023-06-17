@@ -9,7 +9,7 @@ I'm an undergraduate student at [Northwestern University](https://www.northweste
 
 ## Research interests
 
-I'm passionate about mathematical computer science research. I'm very interested in finding effective ways to computationally represent problems we want to solve and in using math to creatively solve these problems. Specifically, I'm interested in developing creative mathematically-inspired algorithms. I believe in combining the beautiful world of mathematics and the pure power of computer science to find new ways of approaching questions and build a smarter, freer, more private, and more environmentally conscious future.
+I'm passionate about AI, robotics, and mathematical computer science research. I'm very interested in writing algorithms to control robotic systems and especially to enable computers ad robots to learn from their experiences to better interact with the world. I believe that this topic&mdash;the intersection of physical systems, algorithms, and machine learning&mdash;is the key to building a safer, more sustainable, and freer future.
 
 My current work is focused on evolutionary computation in artificial intelligence. As a member of the [Xenobot Lab](https://www.xenobot.group), I'm investigating evolutionary algorithms and open-endedness in artificial intelligence and artificial life. You can see some of my work on [my GitHub](https://www.github.com/ellifteria)!
 
