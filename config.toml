@@ -125,7 +125,7 @@ weight = 4
     name = "github"
     link = "https://github.com/ellifteria"
   [[params.social]]
-    name = "mastodon"
+    name = "Mastodon"
     link = "https://flosstodon.org/@ellifteria"
 #   [[params.social]]
 #     name = "email"
