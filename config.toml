@@ -25,15 +25,15 @@ name = "Digital garden"
 url = "https://elliberes.me/DigitalGarden/"
 weight = 3
 
-[[menu.main]]
-name = "Bookshelf"
-url = "https://elliberes.me/Bookshelf/"
-weight = 4
+#[[menu.main]]
+#name = "Bookshelf"
+#url = "https://elliberes.me/Bookshelf/"
+#weight = 4
 
-[[menu.main]]
-name = "Art"
-url = "https://elliberes.me/MyArt/"
-weight = 5
+#[[menu.main]]
+#name = "Art"
+#url = "https://elliberes.me/MyArt/"
+#weight = 5
 
 [markup]
   [markup.tableOfContents]
