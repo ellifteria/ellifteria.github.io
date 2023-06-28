@@ -15,20 +15,25 @@ name = "Home"
 url = "/"
 weight = 1
 
-# [[menu.main]]
-# name = "Writings"
-# url = "/posts"
-# weight = 2
-
-# [[menu.main]]
-# name = "Tags"
-# url = "/tags"
-# weight = 3
-
 [[menu.main]]
 name = "About"
 url = "/about"
+weight = 2
+
+[[menu.main]]
+name = "Digital garden"
+url = "/DigitalGarden/"
+weight = 3
+
+[[menu.main]]
+name = "Bookshelf"
+url = "/Bookshelf/"
 weight = 4
+
+[[menu.main]]
+name = "Art"
+url = "/MyArt/"
+weight = 5
 
 [markup]
   [markup.tableOfContents]
