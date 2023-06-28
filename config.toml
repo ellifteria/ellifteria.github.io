@@ -22,17 +22,17 @@ weight = 2
 
 [[menu.main]]
 name = "Digital garden"
-url = "/DigitalGarden/"
+url = "https://elliberes.me/DigitalGarden/"
 weight = 3
 
 [[menu.main]]
 name = "Bookshelf"
-url = "/Bookshelf/"
+url = "https://elliberes.me/Bookshelf/"
 weight = 4
 
 [[menu.main]]
 name = "Art"
-url = "/MyArt/"
+url = "https://elliberes.me/MyArt/"
 weight = 5
 
 [markup]
