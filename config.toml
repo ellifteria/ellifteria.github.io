@@ -21,19 +21,9 @@ url = "/about"
 weight = 2
 
 [[menu.main]]
-name = "Digital garden"
+name = "Digital Garden"
 url = "https://elliberes.me/digitalgarden/"
 weight = 3
-
-#[[menu.main]]
-#name = "Bookshelf"
-#url = "https://elliberes.me/Bookshelf/"
-#weight = 4
-
-#[[menu.main]]
-#name = "Art"
-#url = "https://elliberes.me/MyArt/"
-#weight = 5
 
 [markup]
   [markup.tableOfContents]
@@ -48,51 +38,50 @@ weight = 3
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "dracula"
+    style = "catppuccin-latte"
     tabWidth = 4
 
 [params]
 
   colortheme = "light" # dark, light, white, or classic
   rss = false # generate rss feed. default value is false
-  googleAnalyticsAsync = true # use asynchronous tracking. Synchronous tracking by default
+  googleAnalyticsAsync = false # use asynchronous tracking. Synchronous tracking by default
   showAllPostsArchive = false # default
 
   # Home page settings
   description = """
   ```yaml
     ---
-    info:
-        name: Elli
-            in Greek: Έλλη
-            short for: Eleftheria
-                in Greek: Ελευθερία
-        pronouns: (she/her/hers)
-        position: Undergraduate Student Researcher
-            - research group: Xenobot Lab
-                location: Northwestern University
-            - research group: Leonard Lab
-                location: Northwestern University
-        education:
-            degrees:
-                - BS in Computer Science
-                    institution: Northwestern University
-                    graduation date: Jun 2025
-                - MS in Computer Engineering
-                    institution: Northwestern University
-                    graduation date: Jun 2025
-        interests:
-            - machine learning
-            - artificial life
-            - robotics
-                - robotic control
-                - robotic intelligence
-                - computer vision
-            - artificial intelligence
-        supporter_of:
-            - free and open-source software (FOSS)
-            - technological decentralization
-            - solarpunk
+    name: Elli
+        in Greek: Έλλη
+        short for: Eleftheria
+            in Greek: Ελευθερία
+    pronouns: (she/her/hers)
+    position: Undergraduate Student Researcher
+        - research group: Xenobot Lab
+            location: Northwestern University
+        - research group: Leonard Lab
+            location: Northwestern University
+    education:
+        degrees:
+            - BS in Computer Science
+                institution: Northwestern University
+                graduation date: Jun 2025
+            - MS in Computer Engineering
+                institution: Northwestern University
+                graduation date: Jun 2025
+    interests:
+        - machine learning
+        - artificial life
+        - robotics
+            - robotic control
+            - robotic intelligence
+            - computer vision
+        - artificial intelligence
+    supporter_of:
+        - free and open-source software (FOSS)
+        - technological decentralization
+        - solarpunk
   ```
   """
   mainSection = "about" # your main section
