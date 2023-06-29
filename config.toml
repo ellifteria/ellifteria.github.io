@@ -38,7 +38,7 @@ weight = 3
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "catppuccin-latte"
+    style = "vulcan"
     tabWidth = 4
 
 [params]
