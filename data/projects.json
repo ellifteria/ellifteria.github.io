@@ -1,14 +1,14 @@
 {
   "list": [
     {
-      "name":"Hugo",
-      "url":"https://gohugo.io/",
-      "desc":"The world’s fastest framework for building websites."
+      "name":"SimRoKit-jl",
+      "url":"https://github.com/ellifteria/SimRoKit-jl",
+      "desc":"A simple native Julia library for creating robot XML specification files."
     },
     {
-      "name":"Hugo Themes",
-      "url":"https://github.com/gohugoio/hugoThemes",
-      "desc":"A curated directory of Hugo themes"
+      "name":"JuliaXMLWriter",
+      "url":"https://github.com/ellifteria/juliaxmlwriter/",
+      "desc":"A simple native Julia XML file creator."
     }
   ]
 }

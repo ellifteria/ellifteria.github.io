@@ -64,20 +64,31 @@ weight = 3
     ---
     info:
         name: Elli
-            translation: Έλλη
-        full_name: Eleftheria
-            translation: Ελευθερία
+            in Greek: Έλλη
+            short for: Eleftheria
+                in Greek: Ελευθερία
         pronouns: (she/her/hers)
         position: Undergraduate Student Researcher
-            institution: Northwestern University
-            major(s):
-                - Computer Science
-                - Math
+            - research group: Xenobot Lab
+                location: Northwestern University
+            - research group: Leonard Lab
+                location: Northwestern University
+        education:
+            degrees:
+                - BS in Computer Science
+                    institution: Northwestern University
+                    graduation date: Jun 2025
+                - MS in Computer Engineering
+                    institution: Northwestern University
+                    graduation date: Jun 2025
         interests:
-            - algorithm design
-            - robotics
             - machine learning
             - artificial life
+            - robotics
+                - robotic control
+                - robotic intelligence
+                - computer vision
+            - artificial intelligence
         supporter_of:
             - free and open-source software (FOSS)
             - technological decentralization
@@ -85,22 +96,25 @@ weight = 3
   ```
   """
   mainSection = "about" # your main section
-  mainSectionTitle = "More About Me"
+  mainSectionTitle = "Click here to learn more about me!"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
-  showProjectsList = false # show projects list by default (if projects data file exists).
+  showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/ellifteria" # title link for projects list
+  projectsTitle = "Check out some of my projects here!"
+  showPublicationsList = true # show projects list by default (if projects data file exists).
+  # publicationsUrl = "https://github.com/ellifteria" # title link for projects list
+  publicationsTitle = "Here are my publications!"
   beliefsDescription = """
   ```yaml
     ---
-    truths:
-        - love is love
-        - trans rights are human rights
-        - feminism is for everyone
-        - there is no planet B
-        - science is real
-        - black lives matter
+    - love is love
+    - trans rights are human rights
+    - feminism is for everyone
+    - there is no planet B
+    - science is real
+    - black lives matter
   ```
   """
   
@@ -114,15 +128,15 @@ weight = 3
 
   [params.comments]
     enabled = false # default
-    engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
-    [params.comments.utterances]
-      repo = "<github_username>/<github_reponame>"
-      label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
-      theme = "github-light"
-    [params.comments.cactuscomments]
-      siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
-      #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
-      #serverName = "" # Defaults to cactus.chat
+    # engine = "cactus_comments" # only disqus, utterances, and cactus_comments is supported
+    # [params.comments.utterances]
+    #   repo = "<github_username>/<github_reponame>"
+    #   label = "hugo-site-name" # you can use however you want to label your name in your repo's issues
+    #   theme = "github-light"
+    # [params.comments.cactuscomments]
+    #   siteName = "your_cactus_comments_sitename" # see https://cactus.chat/ on how to register your site name
+    #   #serverUrl = "" # Defaults to https://matrix.cactus.chat:8448 (Cactus Chat public server)
+    #   #serverName = "" # Defaults to cactus.chat
 
   # the value of name should be an valid font awesome icon name (brands type)
   # https://fontawesome.com/icons?d=gallery&s=brands
@@ -130,7 +144,7 @@ weight = 3
     name = "github"
     link = "https://github.com/ellifteria"
   [[params.social]]
-    name = "Mastodon"
+    name = "mastodon"
     link = "https://fosstodon.org/@ellifteria"
 #   [[params.social]]
 #     name = "email"
