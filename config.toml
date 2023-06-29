@@ -38,7 +38,7 @@ weight = 3
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "vulcan"
+    style = "dracula"
     tabWidth = 4
 
 [params]
