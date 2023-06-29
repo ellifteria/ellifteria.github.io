@@ -22,7 +22,7 @@ weight = 2
 
 [[menu.main]]
 name = "Digital garden"
-url = "https://elliberes.me/DigitalGarden/"
+url = "https://elliberes.me/digitalgarden/"
 weight = 3
 
 #[[menu.main]]
