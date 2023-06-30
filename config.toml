@@ -57,6 +57,11 @@ weight = 3
         short for: Eleftheria
             in Greek: Ελευθερία
     pronouns: (she/her/hers)
+  ```
+  """
+  aboutMe = """
+  ```yaml
+    ---
     position: Undergraduate Student Researcher
         - research group: Xenobot Lab
             location: Northwestern University
@@ -85,7 +90,7 @@ weight = 3
   ```
   """
   mainSection = "about" # your main section
-  mainSectionTitle = "Click here to learn more about me!"
+  mainSectionTitle = "More about me!"
   showAllPostsOnHomePage = false # default
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
