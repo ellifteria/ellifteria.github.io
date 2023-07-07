@@ -75,14 +75,16 @@ weight = 3
             - MS in Computer Science
                 institution: Northwestern University
                 graduation date: Jun 2025
-    interests:
+    interested_in:
         - machine learning
-        - artificial life
-        - robotics
-            - robotic control
-            - robotic intelligence
-            - computer vision
         - artificial intelligence
+        - building embedded and decentralized systems that are
+            - safer
+            - more secure
+            - more sustainable
+            - more equitable
+            - more accessible
+            - more intelligent
     supporter_of:
         - free and open-source software (FOSS)
         - technological decentralization
