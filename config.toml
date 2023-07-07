@@ -53,8 +53,8 @@ weight = 3
   ```yaml
     ---
     - name: 'Elli'
-        in Greek: 'Έλλη'
-        short for: 'Eleftheria'
+        - in Greek: 'Έλλη'
+        - short for: 'Eleftheria'
             in Greek: 'Ελευθερία'
     - pronouns: '(she/her/hers)'
   ```
