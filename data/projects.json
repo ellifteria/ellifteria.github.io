@@ -6,6 +6,11 @@
       "desc":"A simple native Julia library for creating robot XML specification files."
     },
     {
+      "name":"PyFlowBAT",
+      "url":"https://github.com/ellifteria/pyflowbat",
+      "desc":"An Open-Source Software Package for Performing High-Throughput Batch Analysis of Flow Cytometry Data."
+    },
+    {
       "name":"JuliaXMLWriter",
       "url":"https://github.com/ellifteria/juliaxmlwriter/",
       "desc":"A simple native Julia XML file creator."
