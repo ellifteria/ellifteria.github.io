@@ -112,12 +112,12 @@ weight = 3
   beliefsDescription = """
   ```yaml
     ---
-    - love is love
-    - trans rights are human rights
-    - feminism is for everyone
-    - there is no planet B
-    - science is real
-    - black lives matter
+    - 'love is love'
+    - 'trans rights are human rights'
+    - 'feminism is for everyone'
+    - 'there is no planet B'
+    - 'science is real'
+    - 'black lives matter'
   ```
   """
   
