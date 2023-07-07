@@ -52,43 +52,43 @@ weight = 3
   description = """
   ```yaml
     ---
-    name: Elli
-        in Greek: Έλλη
-        short for: Eleftheria
-            in Greek: Ελευθερία
-    pronouns: (she/her/hers)
+    name: 'Elli'
+        in Greek: 'Έλλη'
+        short for: 'Eleftheria'
+            in Greek: 'Ελευθερία'
+    pronouns: '(she/her/hers)'
   ```
   """
   aboutMe = """
   ```yaml
     ---
-    position: Undergraduate Student Researcher
-        - research group: Xenobot Lab
-            location: Northwestern University
-        - research group: Leonard Lab
-            location: Northwestern University
+    position: 'Undergraduate Student Researcher'
+        - research_group: 'Xenobot Lab'
+            location: 'Northwestern University'
+        - research_group: 'Leonard Lab'
+            location: 'Northwestern University'
     education:
         degrees:
-            - BS in Computer Science
-                institution: Northwestern University
-                graduation date: Jun 2025
-            - MS in Computer Science
-                institution: Northwestern University
-                graduation date: Jun 2025
+            - 'BS in Computer Science'
+                institution: 'Northwestern University'
+                graduation_date: 'Jun 2025'
+            - 'MS in Computer Science'
+                institution: 'Northwestern University'
+                graduation_date: 'Jun 2025'
     interested_in:
-        - machine learning
-        - artificial intelligence
-        - building embedded and decentralized systems that are
-            - safer
-            - more secure
-            - more sustainable
-            - more equitable
-            - more accessible
-            - more intelligent
+        - 'machine learning'
+        - 'artificial intelligence'
+        - 'building embedded and decentralized systems that are'
+            - 'safer'
+            - 'more secure'
+            - 'more sustainable'
+            - 'more equitable'
+            - 'more accessible'
+            - 'more intelligent'
     supporter_of:
-        - free and open-source software (FOSS)
-        - technological decentralization
-        - solarpunk
+        - 'free and open-source software (FOSS)'
+        - 'technological decentralization'
+        - 'solarpunk'
   ```
   """
   mainSection = "about" # your main section
