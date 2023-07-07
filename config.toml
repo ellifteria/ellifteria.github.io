@@ -91,15 +91,22 @@ weight = 3
   """
   mainSection = "about" # your main section
   mainSectionTitle = "More about me!"
+  
   showAllPostsOnHomePage = false # default
+  
   postsOnHomePage = 5 # this option will be ignored if showAllPostsOnHomePage is set to true
   tagsOverview = false # show tags overview by default.
+  
   showProjectsList = true # show projects list by default (if projects data file exists).
   projectsUrl = "https://github.com/ellifteria" # title link for projects list
   projectsTitle = "Check out some of my projects here!"
+  
   showPublicationsList = true # show projects list by default (if projects data file exists).
   # publicationsUrl = "https://github.com/ellifteria" # title link for projects list
   publicationsTitle = "Here are my publications!"
+  paperssSubTitle = "Papers:"
+  postersSubTitle = "Posters:"
+  
   beliefsDescription = """
   ```yaml
     ---
