@@ -9,8 +9,8 @@ I'm an undergraduate student at [Northwestern University](https://www.northweste
 
 ## Research interests
 
-I'm passionate about AI, robotics, and machine learning research. I'm very interested in writing algorithms to control robotic systems and especially to enable computers ad robots to learn from their experiences to better interact with the world. I believe that this topic&mdash;the intersection of physical systems, algorithms, and machine learning&mdash;is the key to building a safer, more sustainable, and freer future.
+I'm passionate about AI, robotics, and machine learning research. I'm very interested in machine intelligence in robotic and embedded systems to enable them to better interact with the world in a more effective and private way. I believe that this topic&mdash;the intersection of physical systems, algorithms, security, privacy, and machine learning&mdash;is the key to building a safer, more sustainable, and freer future.
 
 My current work is focused on evolutionary computation in artificial intelligence. As a member of the [Xenobot Lab](https://www.xenobot.group), I'm investigating evolutionary algorithms and open-endedness in artificial intelligence and artificial life. You can see some of my work on [my GitHub](https://www.github.com/ellifteria)!
 
-I previously worked in the [Leonard Lab](https://www.leonard.northwestern.edu) where I  developed an [open-source software package](https://www.github.com/ellifteria/pyflowbat) for analyzing flow cytometry data, specifically for mammalian synthetic biology applications. I also did a bit of wet-lab work characterizing mammalian synthetic transcription factors.
+I also work in the [Leonard Lab](https://www.leonard.northwestern.edu) where I  am developing an [open-source software package](https://www.github.com/ellifteria/pyflowbat) for analyzing flow cytometry data, specifically for mammalian synthetic biology applications.
