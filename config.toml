@@ -38,7 +38,7 @@ weight = 3
     lineNos = true
     lineNumbersInTable = false
     noClasses = true
-    style = "dracula"
+    style = 'catppuccin-latte'
     tabWidth = 4
 
 [params]
