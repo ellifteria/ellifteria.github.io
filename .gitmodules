@@ -1,0 +1,4 @@
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = git@github.com:ellifteria/blowfish.git
+	branch = main
