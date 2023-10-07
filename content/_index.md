@@ -7,9 +7,10 @@ description: "Welcome to my website!"
 ```yaml
 ---
 name: 'Elli'
-    in Greek: 'Έλλη'
-    short for: 'Eleftheria'
-        in Greek: 'Ελευθερία'
+    in_Greek: 'Έλλη'
+    pronounced: '/\'ɛli/'
+    short_for: 'Eleftheria'
+        in_Greek: 'Ελευθερία'
 pronouns: '(she/her/hers)'
 position: 'Undergraduate Student Researcher'
     - research_group: 'Xenobot Lab'

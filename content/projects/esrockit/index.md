@@ -50,6 +50,6 @@ Additionally, ClothoJl can and should be translated into Python to allow for a P
 
 ## LachesisPy
 
-[ESRoCKit-LachesisPy](https://github.com/ellifteria/ESRoCKit-LachesisPy) is a Python library for controlling simulated robots in the [PyBullet physics engine].
+[ESRoCKit-LachesisPy](https://github.com/ellifteria/ESRoCKit-LachesisPy) is a Python library for controlling simulated robots in the [PyBullet physics engine](https://pybullet.org/).
 Like ClothoJl, LachesisPy is also named after one of the Moirai, [Lachesis](https://wikipedia.org/wiki/Lachesis).
 Just as Lachesis measures the thread of life spun by Clotho and determines destiny, LachesisPy controls the movement of the simulated robots defined by ClothoJl in the physics engine.
