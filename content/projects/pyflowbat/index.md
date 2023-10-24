@@ -23,3 +23,8 @@ PyFlowBAT is both accessible to researchers with limited coding experience throu
 We validate PyFlowBAT’s effectiveness by analyzing inducible fluorescent protein expression data in mammalian cells and comparing the quantitative metrics produced by PyFlowBAT to those produced manually using FlowJo, the field’s standard analysis tool.
 PyFlowBAT adds crucial missing functionality to the growing corpus of open-source synthetic biology tools developed in recent years.
 Furthermore, PyFlowBAT fills a largely ignored yet increasingly important niche within the synthetic biologist’s toolkit: software for efficient, high-throughput flow cytometry analysis and visualization.
+
+---
+
+Read the poster I presented at EBRC 2023 on PyFlowBAT [here](https://elliberes.me/publications/ebrc2023/featured.png)!
+You can find the (work-in-progress) PyFlowBAT code [here](https://github.com/leonardlab/pyflowbat).
