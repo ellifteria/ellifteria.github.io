@@ -8,8 +8,8 @@ date: 2023-05-19 16:22:00
 I'm an third-year undergraduate student at [Northwestern University](https://www.northwestern.edu/) pursuing a BS in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
 Excitingly, I'll be graduating this June and (fingers crossed) starting a PhD program next fall!
 
-I'm broadly interested in human-computer interaction, data analysis and visualization, and computer science education.
-Specifically, I want to create (1) tools that empower individuals to more easily and efficiently interact with computer and (2) new and improved methods for promoting learning and understand in computer education science.
+I'm broadly interested in human-computer interaction, graphics and data visualization, and CS education.
+Specifically, I want to create (1) tools and interfaces that empower individuals to more easily and efficiently interact with computer science and software and (2) new and improved methods for promoting learning and understand in computer education science.
 I love teaching and aspire to a career teaching in academia after getting a PhD (which will come after I finish my undergrad of course).
 I've been lucky to have had incredible teachers throughout my life who've supported me and encouraged me to learn and I hope to be able to be that person for others in the future!
 
