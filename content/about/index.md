@@ -8,8 +8,8 @@ date: 2023-05-19 16:22:00
 I'm an third-year undergraduate student at [Northwestern University](https://www.northwestern.edu/) pursuing a BS in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
 Excitingly, I'll be graduating this June and (fingers crossed) starting a PhD program next fall!
 
-I'm broadly interested in human-computer interaction, graphics and data visualization, and CS education.
-Specifically, I want to create (1) tools and interfaces that empower individuals to more easily and efficiently interact with computer science and software and (2) new and improved methods for promoting learning and understand in computer education science.
+I'm broadly interested in human-computer interaction, computing education, creative and interactive coding, and creating interfaces that make it easier for people to write and understand programs.
+Specifically, I want to work on (1) creating easy-to-use and easy-to-learn programming tools and interfaces that empower individuals to more easily and efficiently interact with computing and (2) improving computing education ideas, methods, and resources, all with the goal of making computing more accessible for all skill levels and backgrounds.
 I love teaching and aspire to a career teaching in academia after getting a PhD (which will come after I finish my undergrad of course).
 I've been lucky to have had incredible teachers throughout my life who've supported me and encouraged me to learn and I hope to be able to be that person for others in the future!
 
@@ -19,7 +19,7 @@ Some of my favorite authors include Ursula K LeGuin, Becky Chambers, and Adrian 
 I love reading, biking, exploring new places, learning languages, and—when I have the chance—writing and learning to do pixel art!
 From my two years here at Northwestern so far, I've fallen in love with the city of Chicago (especially the Lakefront Trail) and adore spending as much free time as possible wandering around it and discovering new areas!
 
-If any of what I've said seems interesting to you, I'd love to connect!
+If any of this seems interesting to you, I'd love to connect!
 Feel free to reach out to me at ```elli``` dot ```beres``` at ```u``` dot ```northwestern``` dot ```edu```.
 
 ## Research interests
