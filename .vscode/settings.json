@@ -1,3 +1,9 @@
 {
-    "discord.enabled": false
+    "discord.enabled": false,
+    "grammarly.selectors": [
+        {
+            "language": "latex",
+            "scheme": "file"
+        }
+    ]
 }
