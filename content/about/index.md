@@ -9,9 +9,9 @@ I'm an third-year undergraduate student at [Northwestern University](https://www
 Excitingly, I'll be graduating this June and (fingers crossed) starting a PhD program next fall!
 
 I'm broadly interested in human-computer interaction, computing education, creative and interactive coding, and creating interfaces that make it easier for people to write and understand programs.
-Specifically, I want to work on (1) creating easy-to-use and easy-to-learn programming tools and interfaces that empower individuals to more easily and efficiently interact with computing and (2) improving computing education ideas, methods, and resources, all with the goal of making computing more accessible for all skill levels and backgrounds.
-I love teaching and aspire to a career teaching in academia after getting a PhD (which will come after I finish my undergrad of course).
-I've been lucky to have had incredible teachers throughout my life who've supported me and encouraged me to learn and I hope to be able to be that person for others in the future!
+Specifically, I want to work on (1) creating easy-to-use and easy-to-learn programming tools and interfaces that empower students to more easily and efficiently interact with and learn computing and (2) improving computing education ideas, methods, and resources, all with the goal of making computing more accessible for all skill levels and backgrounds.
+<!-- I love teaching and aspire to a career teaching in academia after getting a PhD (which will come after I finish my undergrad of course). -->
+<!-- I've been lucky to have had incredible teachers throughout my life who've supported me and encouraged me to learn and I hope to be able to be that person for others in the future! -->
 
 I'm also a big proponent of [free software](https://www.gnu.org/philosophy/free-sw.en.html), [technological](https://redecentralize.org) [decentralization](https://medium.com/daia/decentralized-ai-manifesto-e79de7ea78b2), and [solarpunk](https://www.re-des.org/a-solarpunk-manifesto/).
 Outside of CS, I'm an avid fantasy and science fiction fan.
