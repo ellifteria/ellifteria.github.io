@@ -16,10 +16,10 @@ title = "Elli Beres"
 [author]
   name = "Elli Beres"
   image = "img/linbwoman-gr.png"
-  headline = "Alleged Undergrad Researcher @ NU CS"
-  bio = "Alleged Undergrad Researcher @ NU CS"
+  headline = "Undergrad Researcher @ NU CS"
+  bio = "Undergrad Researcher @ NU CS"
   links = [
-#     { email = "mailto:hello@your_domain.com" },
+    # { email = "mailto:elli.beres@u.northwestern.edu" },
     { link = "https://ellifteria.xyz" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },

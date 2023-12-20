@@ -3,13 +3,13 @@ title: "Elli Beres"
 description: "Welcome to my website!"
 ---
 
-Undergraduate researcher passionate about empowering individuals to more easily and efficiently interact with computing.
+Undergraduate researcher passionate about programming interfaces that empower students to interact with and learn computing.
 
 ```yaml
 ---
 name: Elli
-    in_Greek: Έλλη
     pronounced: /'ɛli/
+    in_Greek: Έλλη
     short_for: Eleftheria
         in_Greek: Ελευθερία
 pronouns: (she/her/hers)
@@ -23,15 +23,11 @@ education:
         institution: Northwestern University
         graduation_date: Jun 2024
 interested_in:
-    - hci
-    - accessible programming systems
-    - easy-to-learn programming tools
     - computing education
+    - programming systems for education
+    - programming systems for non-computer scientists
+    - hci
     - creative coding
         - game development
         - procedural generation
-supporter_of:
-    - free and open-source software (FOSS)
-    - technological decentralization
-    - solarpunk
 ```
