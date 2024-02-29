@@ -13,14 +13,16 @@
     {{range $section := .PageParams.listSections}}
         <h2 id="{{$section.name}}"><a class="anchor" href="#{{$section.name}}">#</a> {{$section.name}}</h2>
         {{range $project := $section.items}}
-            <h3 id="{{$section.name}}--{{$project.id}}"><a class="anchor" href="#{{$section.name}}--{{$project.id}}">#</a> {{$project.name}}</h3>
+            <section id="{{$section.name}}--{{$project.id}}"><a class="anchor" href="#{{$section.name}}--{{$project.id}}">#</a> {{$project.name}}
+            </section>
+            <p>
             {{if and $project.location $project.date}}
-                <p><strong>{{$project.location}}</strong> | <em>{{$project.date}}</em></p>
-            {{else}}
-                <p><strong>{{$project.location}}</strong><em>{{$project.date}}</em></p>
+                <strong>{{$project.location}}</strong> | <em>{{$project.date}}</em><br>
+            {{else if or $project.location $project.date}}
+                <strong>{{$project.location}}</strong><em>{{$project.date}}</em><br>
             {{end}}
-            <p><strong><em>{{$project.beginning}}</em></strong>{{$project.description}}</p>
-            <p>/
+            <strong><em>{{$project.beginning}}</em></strong>{{$project.description}}<br>
+            /
             {{range $link := $project.links}}
                 <a href="{{$link.link}}">{{$link.name}}</a> /
             {{end}}
