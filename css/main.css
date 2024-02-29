@@ -7,6 +7,14 @@
     --background-color: #f7f7f7;
 }
 
+@media (prefers-color-scheme: dark) {
+    :root {
+        --main-color: #9f8dbd;
+        --main-text-color: #f7f7f7;
+        --background-color: #3b3b3b;
+    }
+  }
+
 code{
     white-space: pre;
 }
@@ -362,7 +370,7 @@ a:hover, a:active {
 
 h1 a:link, h1 a:visited, h2 a:link, h2 a:visited,
 h3 a:link, h3 a:visited, h4 a:link, h4 a:visited,
-h5 a:link, h5 a:visited {color: black;}
+h5 a:link, h5 a:visited {color: var(--main-text-color);}
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover,
 h5 a:hover {text-decoration: none;}
 
