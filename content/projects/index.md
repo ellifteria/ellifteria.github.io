@@ -46,8 +46,6 @@ listSections:
                 name: "grafē"
                 description: "A simple static site generator written in Go. It's what's powering this website!"
                 links:
-                    -   link: https://spreadsheet2code.onrender.com
-                        name: Link
                     -   link: https://github.com/ellifteria/grafe
                         name: Repo
                     -   link: https://grafe-ssg.onrender.com/
