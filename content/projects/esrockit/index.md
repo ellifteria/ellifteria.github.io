@@ -1,7 +1,7 @@
 ---
 title: ESRoCKit
-date: 2023-08-08
 summary: An open-source library collection for simulated robotics. Created during my time in the Xenobot lab. Jun 2023–Present.
+template: page
 ---
 
 ## Details

@@ -1,0 +1,123 @@
+
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="/css/main.css">
+
+        
+    <title>ESRoCKit</title>
+
+
+        
+
+<script type="text/javascript" id="MathJax-script" async
+src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+
+
+    </head>
+
+    <body>
+        <header>
+            
+
+<div class="column">
+    <div class="navigation">
+        /
+        
+            
+                <a href="/">About</a> /
+            
+        
+            
+                <a href="/publications">Publications</a> /
+            
+        
+            
+                <a href="/projects">Projects</a> /
+            
+        
+    </div>
+    <div class="breadcrumb">
+        <a href="/">Elli Beres</a>
+    </div>
+</div>
+
+
+        </header>
+        
+
+        
+
+    <h1>ESRoCKit</h1>
+    <p class="subtitle">An open-source library collection for simulated robotics. Created during my time in the Xenobot lab. Jun 2023–Present.</p>
+
+    <h3></h3>
+
+    <h2 id="details"><a class="anchor" href="#details">#</a> Details</h2>
+<ul>
+<li><strong>Type</strong>: Open-source library collection</li>
+<li><strong>Languages</strong>: Julia, Python</li>
+<li><strong>Affiliated with</strong>: Xenobot Lab</li>
+<li><strong>Purpose</strong>: Simulated robotics</li>
+<li><strong>Start</strong>: June 2023</li>
+<li><strong>End</strong>: Ongoing</li>
+</ul>
+<h2 id="overview"><a class="anchor" href="#overview">#</a> Overview</h2>
+<p>ESRoCKit, or the <strong>E</strong>SRoCKit <strong>S</strong>imulated <strong>R</strong>obotic <strong>C</strong>reatures tool<strong>Kit</strong>, is a collection of (currently) 2 open-source software libraries on Github:</p>
+<ul>
+<li><a href="https://github.com/ellifteria/ESRoCKit-LachesisPy"><strong>ESRoCKit-LachesisPy</strong></a>: A Python library for controlling simulated robots in PyBullet.</li>
+<li><a href="https://github.com/ellifteria/ESRoCKit-ClothoJl"><strong>ESRoCKit-ClothoJl</strong></a>: A Julia library for generating simulated robot specification XML files.</li>
+</ul>
+<h2 id="background"><a class="anchor" href="#background">#</a> Background</h2>
+<p>While working as an undergraduate researcher in the <a href="https://xenobot.group">Xenobot Lab</a> on a project simulating virtual evolutionary robots in Julia and Python, I realized that the ecosystem for doing simulated robotics in both languages had a lot of room for improvement.
+Specifically, I needed libraries for two different tasks:</p>
+<ol>
+<li>Creating simulated robot specification files in Julia</li>
+<li>Controlling simulated robots in Python</li>
+</ol>
+<p>Enter, ESRoCKit.</p>
+<h2 id="clothojl"><a class="anchor" href="#clothojl">#</a> ClothoJl</h2>
+<p><a href="https://github.com/ellifteria/ESRoCKit-ClothoJl">ESRoCKit-ClothoJl</a> is a native Julia library for generating simulated robot specification XML files.
+The name is inspired by <a href="https://wikipedia.org/wiki/Clotho">Clotho</a>, the youngest of the <a href="https://wikipedia.org/wiki/Moirai">Moirai</a>, aka the Three Fates, and is responsible for spinning the thread of mortals' lives.
+Currently, ClothoJl is capable of creating:</p>
+<ul>
+<li><a href="http://wiki.ros.org/urdf">URDF</a> files: a standard format for defining robot bodies</li>
+<li><a href="">ENNF</a> files: a novel format I developed for defining robot neural networks</li>
+</ul>
+<p>ClothoJl runs on a native Julia XML file writer I created for this project, also found on GitHub <a href="https://github.com/ellifteria/JuliaXMLWriter">here</a>.</p>
+<h3 id="future-steps"><a class="anchor" href="#future-steps">#</a> Future steps</h3>
+<p>ClothoJl can still be improved by incorporating alternate definition file specifications.
+Specifically, Mujoco files are a logical next step for ClothoJl to be able to create.</p>
+<p>Additionally, ClothoJl can and should be translated into Python to allow for a Python-only workflow.</p>
+<h2 id="lachesispy"><a class="anchor" href="#lachesispy">#</a> LachesisPy</h2>
+<p><a href="https://github.com/ellifteria/ESRoCKit-LachesisPy">ESRoCKit-LachesisPy</a> is a Python library for controlling simulated robots in the <a href="https://pybullet.org/">PyBullet physics engine</a>.
+Like ClothoJl, LachesisPy is also named after one of the Moirai, <a href="https://wikipedia.org/wiki/Lachesis">Lachesis</a>.
+Just as Lachesis measures the thread of life spun by Clotho and determines destiny, LachesisPy controls the movement of the simulated robots defined by ClothoJl in the physics engine.</p>
+
+
+
+
+        <footer>
+            
+
+    <hr>
+
+    <div>Powered by
+        <a href="https://golang.org/">Go</a> and
+        <a href="https://github.com/ellifteria/grafe">graf&emacr;</a>
+    </div>
+
+
+        </footer>
+    </body>
+
+</html>
+
+
+
+

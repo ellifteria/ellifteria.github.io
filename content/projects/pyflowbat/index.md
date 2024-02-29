@@ -1,12 +1,14 @@
 ---
 title: PyFlowBAT
-date: 2023-07-12
 summary: An Open-Source Software Package for Performing High-Throughput Batch Analysis of Flow Cytometry Data. Developed for the Leonard Lab. Jun 2022–Present.
+template: page
 ---
 
 ## IMPORTANT
 
 Paper writing in progress!
+
+![PyFlowBat logo](logo.png)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Munin
-date: 2023-12-03
 summary: "Execution-Time Space Complexity Analysis. Created in COMP_SCI 335: Theory of Computation @ NU. Nov 2023–Dec 2023."
+template: page
 ---
 
 Munin allows users to measure the amount of memory used by algorithms on different input sizes.
@@ -18,7 +18,7 @@ Read more about Munin below!
 
 # Munin: Execution-Time Space Complexity Analysis
 
-![munin logo](featured.png)
+![munin logo](logo.png)
 
 Analyzing the time complexity is a common task in theory computer science, computational complexity theory, and the design of algorithms. Just as important, although less well-understood, is analyzing algorithms’ space complexity. That is, understanding how much memory is used in the execution of algorithms compared to the size of their inputs.
 
