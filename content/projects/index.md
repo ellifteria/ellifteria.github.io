@@ -77,8 +77,8 @@ A project I need to come back to in the future!
 
 A CTF project for solving sudoku problems—with imposters.
 
-[Repo](https://github.com/ellifteria/ImposterSudoku.py) |
-[[imposter-sudoku/index|More]]
+[[imposter-sudoku/index|More]] |
+[Repo](https://github.com/ellifteria/ImposterSudoku.py)
 
 ### pyro-corpus
 
