@@ -16,9 +16,10 @@ Here are some projects I've worked on!
 
 An open-source library collection for simulated robotics.
 
-[[esrockit/index|More]] |
-[Repo 1](https://github.com/ellifteria/ESRoCKit-LachesisPy) |
-[Repo 2](https://github.com/ellifteria/ESRoCKit-ClothoJl)
+/
+[[esrockit/index|More]] /
+[Repo 1](https://github.com/ellifteria/ESRoCKit-LachesisPy) /
+[Repo 2](https://github.com/ellifteria/ESRoCKit-ClothoJl) /
 
 ### PyFlowBAT
 
@@ -27,9 +28,10 @@ An open-source library collection for simulated robotics.
 
 An Open-Source Software Package for Performing High-Throughput Batch Analysis of Flow Cytometry Data.
 
-[[pyflowbat/index|More]] |
-[[/publications/ebrc/poster.png|Poster]] |
-[Repo]([https://github.com/leonardlab/pyflowbat)
+/
+[[pyflowbat/index|More]] /
+[[/publications/ebrc/poster.png|Poster]] /
+[Repo]([https://github.com/leonardlab/pyflowbat) /
 
 ## Other
 
@@ -39,8 +41,9 @@ An Open-Source Software Package for Performing High-Throughput Batch Analysis of
 
 A learning tool to help spreadsheet users learn to program!
 
-[[https://spreadsheet2code.onrender.com|Link]] |
-[Repo](https://github.com/ellifteria/spreadsheet-js)
+/
+[[https://spreadsheet2code.onrender.com|Link]] /
+[Repo](https://github.com/ellifteria/spreadsheet-js) /
 
 ### grafē
 
@@ -49,8 +52,9 @@ A learning tool to help spreadsheet users learn to program!
 A simple static site generator written in Go.
 It's what's powering this website!
 
-[Repo](https://github.com/ellifteria/grafe) |
-[[https://grafe-ssg.onrender.com/|Docs]]
+/
+[Repo](https://github.com/ellifteria/grafe) /
+[[https://grafe-ssg.onrender.com/|Docs]] /
 
 ### Munin
 
@@ -59,8 +63,9 @@ It's what's powering this website!
 A tool for calculating the space complexity of various algorithms.
 Written while taking COMP_SCI 335: Theory of Computation at Northwestern.
 
-[[munin/index|More]] |
-[Repo](https://github.com/ellifteria/munin)
+/
+[[munin/index|More]] /
+[Repo](https://github.com/ellifteria/munin) /
 
 ### Fantasy Map Generator
 
@@ -69,7 +74,8 @@ Written while taking COMP_SCI 335: Theory of Computation at Northwestern.
 A simple procedural map generator in Go.
 A project I need to come back to in the future!
 
-[Repo](https://github.com/ellifteria/fantasy-map-builder)
+/
+[Repo](https://github.com/ellifteria/fantasy-map-builder) /
 
 ### Imposter Sudoku
 
@@ -77,8 +83,9 @@ A project I need to come back to in the future!
 
 A CTF project for solving sudoku problems—with imposters.
 
-[[imposter-sudoku/index|More]] |
-[Repo](https://github.com/ellifteria/ImposterSudoku.py)
+/
+[[imposter-sudoku/index|More]] /
+[Repo](https://github.com/ellifteria/ImposterSudoku.py) /
 
 ### pyro-corpus
 
@@ -87,5 +94,6 @@ A CTF project for solving sudoku problems—with imposters.
 Recursive virtual robot body generation.
 Created for COMP_SCI 396: Artificial Life at Northwestern.
 
-[[pyrocorpus/index|More]] |
-[Repo](https://github.com/ellifteria/pyro-corpus)
+/
+[[pyrocorpus/index|More]] /
+[Repo](https://github.com/ellifteria/pyro-corpus) /

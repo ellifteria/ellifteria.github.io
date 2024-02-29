@@ -10,28 +10,11 @@
     <p class="subtitle">{{.PageParams.summary}}</p>
 
     <h3>{{.SiteParams.title}}</h3>
-    <p>|
+    <p>/
     {{range $social := .PageParams.socials}}
-        <a href="{{$social.link}}">{{$social.name}}</a> |
+        <a href="{{$social.link}}">{{$social.name}}</a> /
     {{end}}
     </p>
-
-    <!-- {{if or .PageParams.BackLink .PageParams.BackLinkText}}
-        <h4>
-            {{if .PageParams.BackLink}}
-                <a href="/{{.PageParams.BackLink}}/index.html">
-            {{else}}    
-                <a href="/">
-            {{end}}
-            &#8592;  Back 
-            {{if .PageParams.BackLinkText}}
-                to {{.PageParams.BackLinkText}}
-            {{end}}
-            </a>
-        </h4>
-    {{end}}
-
-    <hr> -->
 
     {{ .Body }}
 
