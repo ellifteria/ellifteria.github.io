@@ -12,7 +12,10 @@ socials:
 navbarName: About
 ---
 
-## Hi! I'm Elli (pronounced /'ɛli/, short for Eleftheria)
+## Hi! I'm Elli
+
+My name is pronounced /'ɛli/; it's short for Eleftheria (Ελευθερία).
+I use she/her/hers pronouns.
 
 I'm an undergraduate student at [Northwestern University](https://www.northwestern.edu/) pursuing a BS in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
 I'll be graduating this June and starting a PhD program in the fall!
