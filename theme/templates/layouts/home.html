@@ -8,8 +8,7 @@
 
     <h1>{{.PageParams.title}}</h1>
     <p class="subtitle">{{.PageParams.summary}}</p>
-
-    <h3>{{.SiteParams.title}}</h3>
+    
     <p>/
     {{range $social := .PageParams.socials}}
         <a href="{{$social.link}}">{{$social.name}}</a> /
