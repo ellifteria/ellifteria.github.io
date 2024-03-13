@@ -1,5 +1,5 @@
 ---
-title: Elli Beres
+title: Elli (Eleftheria) Beres
 summary: CS Undegrad Researcher @ NU
 template: home
 socials:
@@ -10,37 +10,47 @@ socials:
     -   name: Mastodon
         link: https://hci.social/@ellifteria
 navbarName: About
+pronouns: "she/her/hers"
 ---
 
 ## Hi! I'm Elli
 
-My name is pronounced /'ɛli/; it's short for Eleftheria (Ελευθερία).
-I use she/her/hers pronouns.
+I'm an undergraduate student at [Northwestern University](https://www.northwestern.edu/) studying [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
+I'm also an starting a Ph.D. in CS at... I'm not sure yet!
+Check back in April to find out.
 
-I'm an undergraduate student at [Northwestern University](https://www.northwestern.edu/) pursuing a BS in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
-I'll be graduating this June and starting a PhD program in the fall!
+I'm passionate about Computing Education, Human-Computer Interaction, Programming Languages and Software Engineering, and more!
+I'm especially interested in the programming systems—be they programming languages, IDES, etc.—that learners, non-computer scientists and end-user programmers use when interacting with computing, learning, programming, and software engineering.
 
-I'm broadly interested in human-computer interaction, computing education, creative and interactive coding, and developing programming interfaces that make it easier for people to write and understand programs.
-Specifically, I want to work on (1) creating easy-to-use and easy-to-learn programming tools and interfaces that empower students to more easily and efficiently interact with and learn computing and (2) improving computing education ideas, methods, and resources, all with the goal of making computing more accessible for all skill levels and backgrounds.
-<!-- I love teaching and aspire to a career teaching in academia after getting a PhD (which will come after I finish my undergrad of course). -->
-<!-- I've been lucky to have had incredible teachers throughout my life who've supported me and encouraged me to learn and I hope to be able to be that person for others in the future! -->
+I'm very interested in developing programming systems for education and programming systems that are broadly more interactive, more visual, and more transparent.
+I aspire to study and design programming systems that empower users to interact and write programs, that empower learners to understand computing and feel confident in their ability to interact with computing, and that are approachable to new users.
 
-I'm also a big proponent of [free software](https://www.gnu.org/philosophy/free-sw.en.html), technological decentralization, and [solarpunk](https://www.re-des.org/a-solarpunk-manifesto/).
-Outside of CS, I'm an avid fantasy and science fiction fan.
-Some of my favorite authors include Ursula K LeGuin, Becky Chambers, and Adrian Tchaikovsky.
-I love reading, biking, exploring new places, learning languages, writing, and TTRPGs!
-While at Northwestern, I've fallen in love with the city of Chicago (especially the Lakefront Trail) and adore spending as much free time as possible wandering around it and discovering new parts of the city (when the weather is decent).
+I believe that the programming systems that learners use to learn computing dramatically shape their experiences with computing.
+For instance, I believe that designing programming systems that are approachable to learners and that bring key computing concepts to the forefront is critical for expanding computing!
+I aspire to study this relationship and how to design such programming systems during my Ph.D.
+
+Outside of research, I love reading, world building, traveling, biking, being outdoors, and playing and especially GMing TTRPGs.
+My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
+Some of my favorite authors include Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
+I love Studio Ghibli films (especially *Nausicaä of the Valley of the Wind*, *Princess Mononoke*, and *The Boy and the Heron*), the Dune movies (and the books of course), *The Owl House*, *She-Ra and the Princesses of Power*, *Avatar: The Last Airbender* (the animated show), and *The Legend of Korra*.
+During my time at Northwestern, I've fallen in love with the city of Chicago (and especially biking the Lakefront Trail when it's warm out) and love exploring the city.
+And I absolutely adore going to Greece and traveling around my family's beautiful homeland.
 
 If any of this seems interesting to you, I'd love to connect!
 Feel free to reach out to me at ```elli``` dot ```beres``` at ```u``` dot ```northwestern``` dot ```edu```.
 
 ## Research Interests
 
+- programming systems
+    - programming languages
+    - IDEs
 - computing education
-- programming systems and interfaces
 - hci
+- non-traditional programmers
+    - end-user programmers
+    - computing for science
+    - creative coding
 - visualization
-- creative coding
 
 ## Research Experience
 

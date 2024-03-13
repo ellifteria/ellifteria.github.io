@@ -9,6 +9,9 @@
     <h1>{{.PageParams.title}}</h1>
     <p class="subtitle">{{.PageParams.summary}}</p>
     
+    {{if .PageParams.pronouns}}
+        <p>Pronouns: {{.PageParams.pronouns}}</p>
+    {{end}}
     <p>/
     {{range $social := .PageParams.socials}}
         <a href="{{$social.link}}">{{$social.name}}</a> /
