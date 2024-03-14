@@ -16,7 +16,7 @@ pronouns: "she/her/hers"
 ## Hi! I'm Elli
 
 I'm an undergraduate student at [Northwestern University](https://www.northwestern.edu/) studying [Computer Science](https://www.mccormick.northwestern.edu/computer-science/).
-I'm also an starting a Ph.D. in CS at... I'm not sure yet!
+I'm also an starting a Ph.D. in CS next year at... I'm not sure yet!
 Check back in April to find out.
 
 I'm passionate about Computing Education, Human-Computer Interaction, Programming Languages and Software Engineering, and more!
