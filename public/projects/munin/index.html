@@ -13,8 +13,10 @@
 
         
 
-<script type="text/javascript" id="MathJax-script" async
-src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+<script>
+    if (typeof main === "undefined"){
+        var main = function() {};
+    }
 </script>
 
 
@@ -44,9 +46,25 @@ src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 
 
 
+        
+
+<style id="additionalStyle">
+    :root {
+        --main-color: #FFB511;
+    }
+
+    @media (prefers-color-scheme: dark) {
+        :root {
+            --main-color: #FFB511;
+        }
+    }
+</style>
+
+
+
     </head>
 
-    <body>
+    <body onload="main()">
         <header>
             
 

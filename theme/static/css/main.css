@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --main-color: #1295D8;
     --main-text-color: #333;
     --contrast-text-color: #fff;
     --background-color: #f7f7f7;
@@ -9,7 +8,6 @@
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --main-color: #1295D8;
         --main-text-color: #f7f7f7;
         --background-color: #3b3b3b;
     }

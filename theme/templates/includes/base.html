@@ -13,9 +13,11 @@
 
         {{template "favicons" .}}
 
+        {{template "additionStyle" .}}
+
     </head>
 
-    <body>
+    <body onload="main()">
         <header>
             {{template "navbar" .}}
         </header>
