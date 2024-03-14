@@ -2,7 +2,6 @@ var main = function(){
     let style = document.getElementById("additionalStyle");
     let colors = [
         "FFB511",
-        "005581",
         "1295D8",
         "FFB511",
         "00778B",
@@ -10,7 +9,12 @@ var main = function(){
         "FF6E1B",
         "FF8F28",
         "D462AD",
-        "6E963B"
+        "6E963B",
+        "765DA0",
+        "c5b4e3",
+        "aadb1e",
+        "2ad2c9",
+        "e93cac"
     ];
     var randomColor = colors[Math.floor(Math.random() * colors.length)];
     style.innerHTML = `
