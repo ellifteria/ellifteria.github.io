@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
 
+@import url("../fonts/stylesheet.css");
+
 :root {
     --main-text-color: #333;
     --contrast-text-color: #fff;
@@ -20,7 +22,7 @@ code{
 body {
     margin: 0 auto;
     padding: 0 15px;
-    font-family: "Work Sans", "Roboto", Arial, sans-serif;
+    font-family: "Scaly Sans", "Work Sans", "Roboto", Arial, sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -113,7 +115,7 @@ a.self, a.self:hover, a.self:focus {
 }
 
 h1, h2, h3, h4, h5, h6, nav, #versioninfo {
-    font-family: "Work Sans", "Roboto",  Arial, sans-serif;
+    font-family: "Scaly Sans", "Work Sans", "Roboto",  Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--main-text-color);
