@@ -8,7 +8,11 @@ socials:
     -   name: GitHub
         link: https://github.com/ellifteria
     -   name: Mastodon
-        link: https://hci.social/@ellifteria
+        link: https://discuss.systems/@ellifteria
+    -   name: Digital Garden
+        link: https://ellifteria.xyz
+    -   name: Notes
+        link: https://ellifterias-notes.onrender.com/
 navbarName: About
 pronouns: "she/her/hers"
 ---
