@@ -15,7 +15,7 @@
     {{end}}
     <p>/
     {{range $social := .PageParams.socials}}
-        <a href="{{$social.link}}">{{$social.name}}</a> /
+        <a href="{{$social.link}}" {{if eq $social.name "Mastodon"}}rel="me"{{end}}>{{$social.name}}</a> /
     {{end}}
     </p>
 
