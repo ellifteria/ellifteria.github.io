@@ -11,8 +11,6 @@ socials:
         link: https://discuss.systems/@ellifteria
     -   name: Digital Garden
         link: https://ellifteria.xyz
-    -   name: Notes
-        link: https://ellifterias-notes.onrender.com/
 navbarName: About
 pronouns: "she/her/hers"
 ---
