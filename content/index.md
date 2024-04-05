@@ -34,7 +34,7 @@ During my time at Northwestern, I've fallen in love with the city of Chicago (an
 And I absolutely adore going to Greece and traveling around my family's beautiful homeland.
 
 If any of this seems interesting to you, I'd love to connect!
-Feel free to reach out to me at ```elli``` dot ```beres``` at ```u``` dot ```northwestern``` dot ```edu```.
+Feel free to reach out to me at [`elli.beres+web@u.northwestern.edu`](mailto:elli.beres+web@u.northwestern.edu).
 
 ## Research Interests
 
