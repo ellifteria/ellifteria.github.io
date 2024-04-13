@@ -1,4 +1,6 @@
-@import url("../fonts/stylesheet.css");
+@import url("../fonts/bitter-stylesheet.css");
+@import url("../fonts/cambo-stylesheet.css");
+@import url("../fonts/turnip/fonts.css");
 
 :root {
     --main-text-color: #333;
@@ -389,7 +391,7 @@ pre {
 
 code {
     padding: 0 2px;
-    color: #8D1A38;
+    color: var(--main-color);
     white-space: pre-wrap;
     background-color: #f9f2f4;
 }
@@ -402,7 +404,7 @@ pre code {
 }
 
 a > code {
-    color: #428BCA;
+    color: var(--main-color);
 }
 
 #versioninfo {

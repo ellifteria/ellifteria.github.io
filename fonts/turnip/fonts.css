@@ -1,0 +1,128 @@
+@font-face {
+  src: url('fonts/Turnip-Light-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Light-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/Turnip-LightItalic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-LightItalic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: 300;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Book-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Book-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: 390;
+}
+
+@font-face {
+  src: url('fonts/Turnip-BookItalic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-BookItalic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: 390;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Regular-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Regular-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Italic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Italic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Medium-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Medium-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('fonts/Turnip-MediumItalic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-MediumItalic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: 500;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Bold-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Bold-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/Turnip-BoldItalic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-BoldItalic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/Turnip-Black-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-Black-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: normal;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('fonts/Turnip-BlackItalic-Edu.woff2') format("woff2"),
+       url('fonts/Turnip-BlackItalic-Edu.woff') format("woff");
+  font-family: 'Turnip';
+  font-style: italic;
+  font-weight: 800;
+}
+
+@font-face {
+  src: url('fonts/TurnipRE-Regular-Edu.woff2') format("woff2"),
+       url('fonts/TurnipRE-Regular-Edu.woff') format("woff");
+  font-family: 'TurnipRE';
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/TurnipRE-Italic-Edu.woff2') format("woff2"),
+       url('fonts/TurnipRE-Italic-Edu.woff') format("woff");
+  font-family: 'TurnipRE';
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  src: url('fonts/TurnipRE-Bold-Edu.woff2') format("woff2"),
+       url('fonts/TurnipRE-Bold-Edu.woff') format("woff");
+  font-family: 'TurnipRE';
+  font-style: normal;
+  font-weight: bold;
+}
+
+@font-face {
+  src: url('fonts/TurnipRE-BoldItalic-Edu.woff2') format("woff2"),
+       url('fonts/TurnipRE-BoldItalic-Edu.woff') format("woff");
+  font-family: 'TurnipRE';
+  font-style: italic;
+  font-weight: bold;
+}
+
