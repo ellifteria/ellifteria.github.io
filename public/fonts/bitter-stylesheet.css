@@ -1,0 +1,116 @@
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Regular.ttf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Italic.ttf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Black.ttf);
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-BlackItalic.ttf);
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-ExtraBold.ttf);
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-ExtraBoldItalic.ttf);
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Bold.ttf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-BoldItalic.ttf);
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-SemiBold.ttf);
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-SemiBoldItalic.ttf);
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Medium.ttf);
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-MediumItalic.ttf);
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Light.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-LightItalic.ttf);
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-ExtraLight.ttf);
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-ExtraLightItalic.ttf);
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-Thin.ttf);
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: Bitter;
+    src: url(bitter-ht-full-pack/BitterPro-ThinItalic.ttf);
+    font-weight: 100;
+    font-style: italic;
+}

@@ -27,7 +27,7 @@ I'm also very interested in how computing and computer science are taught, espec
 
 Outside of research, I love reading, world building, traveling, biking, being outdoors, and playing and especially GMing TTRPGs.
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
-Some of my favorite authors include Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
+Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
 I love Studio Ghibli films (especially *Nausicaä of the Valley of the Wind*, *Princess Mononoke*, and *The Boy and the Heron*), the Dune movies (and the books of course), *The Owl House*, *She-Ra and the Princesses of Power*, *Avatar: The Last Airbender* (the animated show), and *The Legend of Korra*.
 During my time at Northwestern, I've fallen in love with the city of Chicago (and especially biking the Lakefront Trail when it's warm out) and love exploring the city.
 And I absolutely adore going to Greece and traveling around my family's beautiful homeland.
