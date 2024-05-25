@@ -58,6 +58,8 @@ Feel free to reach out to me at [`elli.beres+web@u.northwestern.edu`](mailto:ell
 
 ## Teaching Experience
 
+- *Peer Mentor*: COMP_SCI 349 Machine Learning, Summer 2024
+- *Peer Mentor*: COMP_SCI 349 Machine Learning, Spring 2024
 - *Peer Mentor*: COMP_SCI 397 Artificial Life, Winter 2024
 - *Peer Mentor*: GEN_ENG 205-1 Engineering Analysis 1, Fall 2023
 - *Peer Mentor*: BMD_ENG 220 Introduction to Biostatistics, Fall 2023
