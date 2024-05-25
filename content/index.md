@@ -13,6 +13,9 @@ socials:
         link: https://ellifteria.xyz
 navbarName: About
 pronouns: "she/her/hers"
+profilePic:
+    path: "/profilePic.jpeg"
+    alt: "Elli Beres"
 ---
 
 ## Hi! I'm Elli
