@@ -16,13 +16,14 @@ pronouns: "she/her/hers"
 profilePic:
     path: "/profilePic.jpeg"
     alt: "Elli Beres"
+includeGoodreads: true
 ---
 
 ## Hi! I'm Elli
 
 I'm an incoming [Computer Science & Engineering](https://www.cs.washington.edu) Ph.D. student at the [University of Washington](https://www.washington.edu).
 My research area lies at the intersection of Programming Languages, Software Engineering, and Computing Education.
-I received a Bachelor's of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
+I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
 
 I'm passionate about Computing Education, Programming Languages and Software Engineering, and more!
 I'm especially interested in the programming systems and software engineering tools that learners, data scientists, scientists, and other non-computer scientists and end-user programmers use when interacting with computing, learning, programming, and software engineering.
@@ -33,10 +34,10 @@ I'm interested in studying what skills are hard for new programmers to learn and
 I'm also curious how recent advances in software engineering technology may require computing educators to focus on aspects of computing other than writing code—for example: reading, understanding, and testing software.
 I believe that this goal is synergistic with my research interests in programming languages and software engineering.
 
-In my free time, I love reading, world building, traveling, biking, and playing and especially GMing TTRPGs.
+In my free time, I love reading, world-building, traveling, biking, and playing and especially GMing TTRPGs.
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
-As of 8 June 2024, I am reading [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) by Walter M. Miller Jr.
+As of 11 June 2024, I am reading [A Canticle for Leibowitz](https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz) by Walter M. Miller Jr.
 <!-- I love Studio Ghibli films (especially *Nausicaä of the Valley of the Wind*, *Princess Mononoke*, and *The Boy and the Heron*), the Dune movies (and the books of course), *The Owl House*, *She-Ra and the Princesses of Power*, *Avatar: The Last Airbender* (the animated show), and *The Legend of Korra*. -->
 <!-- During my time at Northwestern, I've fallen in love with the city of Chicago (and especially biking the Lakefront Trail when it's warm out) and love exploring the city.
 And I absolutely adore going to Greece and traveling around my family's beautiful homeland. -->

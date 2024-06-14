@@ -13,7 +13,15 @@
         --main-text-color: #f7f7f7;
         --background-color: #3b3b3b;
     }
-  }
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+}
 
 code{
     white-space: pre;
