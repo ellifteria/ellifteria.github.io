@@ -14,7 +14,7 @@ socials:
 navbarName: About
 pronouns: "she/her/hers"
 profilePic:
-    path: "/profilePic.jpeg"
+    path: "/profilePic2400x2400.jpeg"
     alt: "Elli Beres"
 includeGoodreads: true
 ---
