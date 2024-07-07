@@ -27,7 +27,7 @@ My research area lies at the intersection of Programming Languages, Software Eng
 I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
 
 I'm passionate about Computing Education, Programming Languages and Software Engineering, and more!
-I'm especially interested in the programming systems and software engineering tools that learners, scientists, and other non-computer scientists and end-user programmers use when learning computing topics, when writing programs, and when interacting with computing in general.
+I'm especially interested in the programming systems and software engineering tools that learners, scientists, and other non-computer scientists use when learning computing topics, when writing programs, and when interacting with computing in general.
 I aspire to study and design programming systems that are more approachable and understandable to all users and that empower people to more safely, efficiently, and easily use the full power of computing to achieve their goals.
 
 <!-- I'm also very interested in how computing education, especially for non-computer scientists.
@@ -35,7 +35,7 @@ I'm interested in studying what skills are hard for new programmers to learn and
 I'm also curious how recent advances in software engineering technology may require computing educators to focus on aspects of computing other than writing code—for example: reading, understanding, and testing software.
 I believe that this goal is synergistic with my research interests in programming languages and software engineering. -->
 
-In my free time, I love reading, world-building, traveling, biking, and playing and especially GMing TTRPGs.
+In my free time, I love reading, world-building, traveling, hiking, biking, and playing and especially GMing TTRPGs.
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
 Scroll down to see what I'm currently reading according to Goodreads!
@@ -51,8 +51,9 @@ Feel free to reach out to me at [`ellifteria+web@gmail.com`](mailto:ellifteria+w
 - programming systems
 - software engineering
 - computing education
-- hci
+- scientific computing
 - visualization
+- hci
 <!-- - non-traditional programmers -->
 <!-- - end-user programmers -->
 <!-- - computing for science -->
