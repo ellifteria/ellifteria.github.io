@@ -378,7 +378,7 @@ a:hover, a:active {
 
 h1 a:link, h1 a:visited, h2 a:link, h2 a:visited,
 h3 a:link, h3 a:visited, h4 a:link, h4 a:visited,
-h5 a:link, h5 a:visited {color: var(--main-text-color);}
+h5 a:link, h5 a:visited {color: var(--main-color);}
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover,
 h5 a:hover {text-decoration: none;}
 
