@@ -48,6 +48,7 @@ Feel free to reach out to me at [`ellifteria+web@gmail.com`](mailto:ellifteria+w
 
 ## Research Interests
 
+- computing for non-computer scientists
 - programming systems
 - software engineering
 - computing education
