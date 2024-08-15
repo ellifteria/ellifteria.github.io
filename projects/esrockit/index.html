@@ -14,16 +14,6 @@
 
         
 
-<script>
-    if (typeof main === "undefined"){
-        var main = function() {};
-    }
-</script>
-
-
-
-        
-
 <link rel="apple-touch-icon-precomposed" sizes="57x57" href="apple-touch-icon-57x57.png" />
 <link rel="apple-touch-icon-precomposed" sizes="114x114" href="apple-touch-icon-114x114.png" />
 <link rel="apple-touch-icon-precomposed" sizes="72x72" href="apple-touch-icon-72x72.png" />
@@ -63,9 +53,16 @@
 
 
 
+        <script>
+            if (typeof main === "undefined"){
+                var main = function() {};
+            }
+            main();
+        </script>
+
     </head>
 
-    <body onload="main()">
+    <body>
         <header>
             
 
@@ -93,7 +90,6 @@
 
 
         </header>
-        
 
         
 
