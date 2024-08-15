@@ -26,11 +26,13 @@ I'm an incoming [Computer Science & Engineering](https://www.cs.washington.edu) 
 My research area lies at the intersection of Programming Languages, Software Engineering, and Computing Education.
 I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
 
-I'm passionate about Computing Education, Programming Languages and Software Engineering, and more!
-I'm especially interested in the programming systems and software engineering tools that learners, scientists, and other non-computer scientists use when learning computing topics, when writing programs, and when interacting with computing in general.
-I aspire to study and design programming systems that are more approachable and understandable to all users and that empower people to more safely, efficiently, and easily use the full power of computing to achieve their goals.
+I'm advised by [Dr. Michael Ernst](https://www.cs.washington.edu/homes/mernst/), [Dr. Amy Ko](https://faculty.washington.edu/ajko/), and [Dr. R. Ben Shapiro](https://benshapi.ro/) at UW CSE's [PLSE](https://uwplse.org) and [LCI](https://www.computinged.uw.edu/) research groups.
+My research interests lie at the intersection of Computing Education, Programming Languages and Software Engineering, and more!
+I'm especially interested in programming systems and software engineering tools for non-computer scientists.
+Specifically, how do different aspects of programming systems help or hinder non-computer scientists'—scientists, artists, etc.—productivity when writing programs and ability to understand code?
+What tools can be developed and what existing systems can be redesigned to better support these programmers?
 
-In my free time, I love reading, world-building, traveling, hiking, biking, and playing and especially GMing TTRPGs.
+In my free time, I love reading, traveling, hiking, biking, and playing and especially GMing tabletop role-playing games (like D&D).
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
 Scroll down to see what I'm currently reading according to Goodreads!
@@ -40,7 +42,6 @@ Feel free to reach out to me at [`ellifteria+web@gmail.com`](mailto:ellifteria+w
 
 ## Research Interests
 
-- Computing for non-Computer Scientists
 - Programming Systems
 - Software Engineering
 - Computing Education
