@@ -1,11 +1,9 @@
-@import url("../fonts/bitter-stylesheet.css");
-@import url("../fonts/cambo-stylesheet.css");
 @import url("../fonts/turnip/fonts.css");
 
 :root {
     --main-text-color: #333;
     --contrast-text-color: #fff;
-    --background-color: #f7f7f7;
+    --background-color: #FAF9F6;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,7 +28,7 @@ code{
 body {
     margin: 0 auto;
     padding: 0 15px;
-    font-family: "Scaly Sans", "Roboto", Arial, sans-serif;
+    font-family: "Turnip", "Scaly Sans", "Roboto", Arial, sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -41,6 +39,12 @@ body {
     font-feature-settings: "kern", "liga";
     background-color: var(--background-color);
 }
+
+.section{
+    display: inline-block;
+    width: 100%;
+}
+
 @media (min-width: 750px) {
     body {
         max-width: 800px;
@@ -123,12 +127,23 @@ a.self, a.self:hover, a.self:focus {
 }
 
 h1, h2, h3, h4, h5, h6, nav, #versioninfo {
-    font-family: "Scaly Sans", "Roboto",  Arial, sans-serif;
+    font-family: "Turnip", "Scaly Sans", "Roboto",  Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--main-text-color);
-    font-weight: 500;
+    font-weight: 100;
     line-height: 1.1;
+    position: relative;
+    text-align: center;
+}
+h1:before, h2:not(.goodreads h2):before, h3:before, h4:before, h5:before, h6:before,
+h1:after, h2:not(.goodreads h2):after, h3:after, h4:after, h5:after, h6:after {
+    display: inline-block;
+    content: "";
+    border-top: .3rem solid black;
+    width: 4rem;
+    margin: 0 1rem;
+    transform: translateY(-0.3rem);
 }
 h1, h2, h3 {
     margin-top: 50px;
@@ -142,8 +157,8 @@ h4, h5, h6 {
 
 h1 {
     font-weight: 100;
-    padding: 0 0px;
-    font-size: 32px;
+    padding: 0 0;
+    font-size: 36px;
     margin-bottom: 20px;
 }
 
@@ -209,16 +224,16 @@ h3.extras {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 32px;
 }
 h3 {
-    font-size: 18px;
+    font-size: 28px;
 }
 h4 {
-    font-size: 16px;
+    font-size: 22px;
 }
 h5 {
-    font-size: 16px;
+    font-size: 18px;
 }
 h6 {
     font-size: 16px;

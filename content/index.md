@@ -18,10 +18,20 @@ profilePic:
     link: "/profilePic.jpeg"
     alt: "Elli Beres"
 includeGoodreads: true
+pageSections:
+    -   name: About Me
+        id: about-me
+    -   name: Research
+        id: research
+    -   name: Teaching Experience
+        id: teaching-experience
+    -   name: My Bookshelf
+        id: my-bookshelf
 ---
 
-## Hi! I'm Elli
+## About Me
 
+Hi! I'm Elli.
 I'm an incoming [Computer Science & Engineering](https://www.cs.washington.edu) Ph.D. student at the [University of Washington](https://www.washington.edu).
 My research area lies at the intersection of Programming Languages, Software Engineering, and Computing Education.
 I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
@@ -40,7 +50,11 @@ Scroll down to see what I'm currently reading according to Goodreads!
 If any of this seems interesting to you, I'd love to connect!
 Feel free to reach out to me at [`ellifteria+web@gmail.com`](mailto:ellifteria+web@gmail.com).
 
-## Research Interests
+## Research
+
+Check out my publications [here](publications)!
+
+### Research Interests
 
 - Programming Systems
 - Software Engineering
@@ -49,7 +63,7 @@ Feel free to reach out to me at [`ellifteria+web@gmail.com`](mailto:ellifteria+w
 - Visualization
 - HCI
 
-## Research Experience
+### Past Research Experience
 
 - [Xenobot Group](https://www.xenobot.group/) @ the [Center for Robotics and Biosystems](https://robotics.northwestern.edu/) @ NU
 - [Leonard Lab](https://www.leonard.northwestern.edu/) @ the [Center for Synthetic Biology](https://syntheticbiology.northwestern.edu/) @ NU
