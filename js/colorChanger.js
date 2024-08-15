@@ -1,30 +1,30 @@
 var main = function(){
     let style = document.getElementById("additionalStyle");
     let colors = [
-        "FFB511",
-        "1295D8",
-        "FFB511",
-        "00778B",
-        "E44C9A",
-        "FF6E1B",
-        "FF8F28",
-        "D462AD",
-        "6E963B",
-        "765DA0",
-        "c5b4e3",
-        "aadb1e",
-        "2ad2c9",
-        "e93cac"
+        "#4169E1",
+        "#40B5AD",
+        "#088F8F",
+        "#009E60",
+        "#EC5800",
+        "#DA70D6",
+        "#C21E56",
+        "#9F2B68",
+        "#8D029B",
+        "#D473D4",
+        "#9A4EAE",
+        "#EF9B0F",
+        "#DAA520",
+        "#D4AF37"
     ];
     var randomColor = colors[Math.floor(Math.random() * colors.length)];
     style.innerHTML = `
     :root {
-        --main-color: #${randomColor};
+        --main-color: ${randomColor};
     }
 
     @media (prefers-color-scheme: dark) {
         :root {
-            --main-color: #${randomColor};
+            --main-color: ${randomColor};
         }
     }`
 }
