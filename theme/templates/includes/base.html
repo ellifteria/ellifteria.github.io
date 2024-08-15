@@ -9,19 +9,23 @@
 
         {{template "header" .}}
 
-        {{template "includeScripts" .}}
-
         {{template "favicons" .}}
 
         {{template "additionStyle" .}}
 
+        <script>
+            if (typeof main === "undefined"){
+                var main = function() {};
+            }
+            main();
+        </script>
+
     </head>
 
-    <body onload="main()">
+    <body>
         <header>
             {{template "navbar" .}}
         </header>
-        
 
         {{template "content" .}}
 
