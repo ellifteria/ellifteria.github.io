@@ -235,12 +235,17 @@
 
 <div class="section">
     <h1>{{.PageParams.title}}</h1>
+    <div class="row">
+        <div class="column">
 
     {{if .PageParams.profilePic}}
     <a href="{{.PageParams.profilePic.link}}">
         <img class="avatar" src="{{.PageParams.profilePic.path}}" alt="{{.PageParams.profilePic.alt}}" width="300">
     </a>
     {{end}}
+
+        </div>
+        <div class="column">
 
     <p class="subtitle">{{.PageParams.summary}}</p>
 
@@ -257,6 +262,11 @@
         <li><a href="#{{$section.id}}">{{$section.name}}</a></li>
         {{end}}
     </ul>
+
+        </div>
+
+    </div>
+
 </div>
 
 

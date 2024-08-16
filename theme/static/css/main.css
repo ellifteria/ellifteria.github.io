@@ -3,7 +3,7 @@
 :root {
     --main-text-color: #333;
     --contrast-text-color: #fff;
-    --background-color: #FAF9F6;
+    --background-color: #F1E9D2;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -38,6 +38,8 @@ body {
     -moz-font-feature-settings: "kern", "liga";
     font-feature-settings: "kern", "liga";
     background-color: var(--background-color);
+
+    min-height: 100vh;
 }
 
 .section{
@@ -45,8 +47,27 @@ body {
     width: 100%;
 }
 
+.bookmarkImage {
+    float: left;
+    margin-left: 40px;
+}
+
+.backgroundBorder{
+    border: 8vw solid;
+    border-image-source: url("/backgroung-border-3.png");
+    border-image-slice: 208;
+    border-image-repeat: round;
+    margin: auto 3vw auto auto;
+
+    min-height: 100vh;
+}
+
+.content{
+    margin: auto;
+}
+
 @media (min-width: 750px) {
-    body {
+    .content {
         max-width: 800px;
     }
 }
@@ -136,8 +157,8 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     text-align: center;
 }
-h1:before, h2:not(.goodreads h2):before, h3:before, h4:before, h5:before, h6:before,
-h1:after, h2:not(.goodreads h2):after, h3:after, h4:after, h5:after, h6:after {
+h2:not(.goodreads h2):before, h3:before, h4:before, h5:before, h6:before,
+h2:not(.goodreads h2):after, h3:after, h4:after, h5:after, h6:after {
     display: inline-block;
     content: "";
     border-top: .3rem solid black;
@@ -156,9 +177,9 @@ h4, h5, h6 {
 }
 
 h1 {
-    font-weight: 100;
+    font-weight: 300;
     padding: 0 0;
-    font-size: 36px;
+    font-size: 72px;
     margin-bottom: 20px;
 }
 

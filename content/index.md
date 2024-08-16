@@ -1,5 +1,5 @@
 ---
-title: Eleftheria Beres
+title: Eleftheria Anastasia Beres
 summary: Incoming CSE Ph.D. Student at the University of Washington
 template: home
 socials:
