@@ -50,6 +50,13 @@ body {
 .bookmarkImage {
     float: left;
     margin-left: 40px;
+    max-width: 5vw;
+}
+
+@media (max-width: 950px) {
+    .bookmarkImage{
+        display: none;
+    }
 }
 
 .backgroundBorder{
