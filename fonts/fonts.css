@@ -1,0 +1,157 @@
+@font-face{
+    font-family: "GFS Ambrosia";
+    src: url(GFS_AMBROSIA/GFSAmbrosia.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Artemisia";
+    src: url(GFS_ARTEMISIA/GFSArtemisia.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Artemisia";
+    src: url(GFS_ARTEMISIA/GFSArtemisiaBold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Artemisia";
+    src: url(GFS_ARTEMISIA/GFSArtemisiaBoldIt.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face{
+    font-family: "GFS Artemisia";
+    src: url(GFS_ARTEMISIA/GFSArtemisiaIt.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "GFS Bodoni";
+    src: url(GFS_Bodoni/GFSBodoni.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Bodoni";
+    src: url(GFS_Bodoni/GFSBodoniBold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Bodoni";
+    src: url(GFS_Bodoni/GFSBodoniBoldIt.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face{
+    font-family: "GFS Bodoni";
+    src: url(GFS_Bodoni/GFSBodoniIt.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "GFS Didot";
+    src: url(GFS_Didot/GFSDidot.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Didot";
+    src: url(GFS_Didot/GFSDidotBold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Didot";
+    src: url(GFS_Didot/GFSDidotBoldItalic.otf);
+    font-weight: bold;
+    font-style: italic;
+}
+@font-face{
+    font-family: "GFS Didot";
+    src: url(GFS_Didot/GFSDidotItalic.otf);
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "GFS Eustace";
+    src: url(GFS_EUStace/GFSEustace.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Galatea";
+    src: url(GFS_Galatea/GFS_Galatea.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Galatea";
+    src: url(GFS_Galatea/GFS_Galatea_Bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Georgiou";
+    src: url(GFS_Georgiou/GFSGeorgiou-Regular.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family: "GFS Georgiou";
+    src: url(GFS_Georgiou/GFSGeorgiou-Bold.otf);
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Heraklit";
+    src: url(GFS_Heraklit/GFSHeraklit.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Nicefore";
+    src: url(GFS_NICEFORE/GFSNicefore.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Orpheus";
+    src: url(GFS_Orpheus/GFS_Orpheus.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Orpheus Classic";
+    src: url(GFS_Orpheus_Classic/GFS_Orpheus_Classic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Philostratos";
+    src: url(GFS_PHILOSTRATOS/GFSPhilostratos.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "GFS Theokritos";
+    src: url(GFS_THEOKRITOS_OT/GFSTheokritos.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
