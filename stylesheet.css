@@ -27,6 +27,15 @@ body{
     }
 }
 
+a.titleLink {
+    color: inherit;
+    text-decoration: none;
+}
+a.titleLink:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
 .icon{
     height: 50px;
     margin: auto;
