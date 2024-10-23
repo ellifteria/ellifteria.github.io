@@ -21,7 +21,7 @@ var main = function(){
     :root {
         --main-color: ${randomColor};
     }
-
+    
     @media (prefers-color-scheme: dark) {
         :root {
             --main-color: ${randomColor};
