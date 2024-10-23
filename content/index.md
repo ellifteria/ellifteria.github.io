@@ -1,6 +1,6 @@
 ---
 title: Eleftheria Anastasia Beres
-summary: CSE Ph.D. Student at the University of Washington
+summary: CS Ph.D. Student at the University of Washington Studying Software Engineering for Scientists
 template: home
 socials:
     -   name: CV
@@ -37,18 +37,17 @@ I'm a [Computer Science & Engineering](https://www.cs.washington.edu) Ph.D. stud
 I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
 
 I'm advised by [Dr. Michael Ernst](https://www.cs.washington.edu/homes/mernst/), [Dr. Amy Ko](https://faculty.washington.edu/ajko/), and [Dr. R. Ben Shapiro](https://benshapi.ro/) at UW CSE's [PLSE](https://uwplse.org) and [LCI](https://www.computinged.uw.edu/) research groups.
-My research interests lie at the intersection of Software Engineering, Computing Education, Computational Science, and more!
-I'm especially interested in programming systems and software engineering tools and education for non-computer scientists.
-Right now, I'm studying how "real" scientists (biologists, geoscientists, etc.) write programs for their research to guide the questions: **how can software engineering support the needs and goals of scientists, how must software engineering be adapted to the needs of science, and how should good software engineering be taught to scientists?**
+My research focus is on using software engineering to help scientists write software more productively and with fewer bugs or errors.
+I'm studying how "real" scientists (biologists, geoscientists, etc.) write programs for their research to guide the questions: **how can software engineering support the needs and goals of scientists, how must software engineering be adapted for scientific research, and how should good software engineering be taught to scientists?**
 If you're a scientists who write any code for your research, please reach out!
 
 I'm also very passionate about making computer science a more equitable, inclusive, and diverse field.
 I'm dedicated to working to make computing a safe, supportive, and welcoming field for all, and especially for women, transgender and nonbinary people, and members of the LGBTQ+ community.
 
-In my free time, I love reading, traveling, hiking, biking, and playing and especially GMing tabletop role-playing games (like D&D).
+In my free time, I love reading, traveling, hiking, biking, and playing and especially GMing tabletop role-playing games like D&D.
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
-Scroll down to see what I'm currently reading according to Goodreads!
+Scroll down to see what I'm currently reading (assuming my Goodreads is up to date)!
 
 If any of this seems interesting to you, I'd love to connect!
 Feel free to reach out to me at [`eberes+web@cs.washington.edu`](mailto:eberes+web@cs.washington.edu).
@@ -63,7 +62,7 @@ Check out my publications [here](publications)!
 - Computing Education
 - HCI
 - Computational Science
-- End-user programming
+- End-user Programming
 
 ### Past Research Experience
 
