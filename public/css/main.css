@@ -1,4 +1,5 @@
 @import url("../fonts/darwin-stylesheet.css");
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
     --main-text-color: #333;
@@ -29,7 +30,7 @@ body {
 
     margin: auto 3vw auto auto;
     padding: 0 15px;
-    font-family: "Darwin", "Roboto", Arial, sans-serif;
+    font-family: "Hanken Grotesk", "Roboto", Arial, sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -157,7 +158,7 @@ a.self, a.self:hover, a.self:focus {
 }
 
 h1, h2, h3, h4, h5, h6, nav, #versioninfo {
-    font-family: "Darwin", "Roboto",  Arial, sans-serif;
+    font-family: "Hanken Grotesk", "Roboto",  Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--main-text-color);
@@ -214,7 +215,7 @@ a.top-version {
 
 h1.subtitle {
     font-size: 25px;
-    font-weight: 100;
+    font-weight: 500;
     margin-right: 20px;
     margin-top: 0px;
     margin-top: -40px;
@@ -282,8 +283,12 @@ p {
 }
 
 strong {
-    font-weight: 400;
+    font-weight: 600;
 }
+
+/* p.subtitle {
+    font-weight: 600;
+} */
 
 em {
     font-style: italic;

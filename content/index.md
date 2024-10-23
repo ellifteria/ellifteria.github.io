@@ -9,8 +9,6 @@ socials:
         link: https://github.com/ellifteria
     -   name: Mastodon
         link: https://discuss.systems/@ellifteria
-    -   name: Digital Garden
-        link: https://ellifteria.xyz
 navbarName: About
 pronouns: "she/her/hers"
 emojis: "🏳️‍🌈"
@@ -28,13 +26,14 @@ pageSections:
         id: teaching-experience
     -   name: My Bookshelf
         id: my-bookshelf
+email: "eberes+web@cs.washington.edu"
 ---
 
 ## About Me
 
 Hi! I'm Elli.
 I'm a [Computer Science & Engineering](https://www.cs.washington.edu) Ph.D. student at the [University of Washington](https://www.washington.edu).
-I received a Bachelor of Science in [Computer Science]((https://www.mccormick.northwestern.edu/computer-science/)) from [Northwestern University](https://www.northwestern.edu/).
+I received a Bachelor of Science in [Computer Science](https://www.mccormick.northwestern.edu/computer-science/) from [Northwestern University](https://www.northwestern.edu/).
 
 I'm advised by [Dr. Michael Ernst](https://www.cs.washington.edu/homes/mernst/), [Dr. Amy Ko](https://faculty.washington.edu/ajko/), and [Dr. R. Ben Shapiro](https://benshapi.ro/) at UW CSE's [PLSE](https://uwplse.org) and [LCI](https://www.computinged.uw.edu/) research groups.
 My research focus is on using software engineering to help scientists write software more productively and with fewer bugs or errors.
@@ -50,7 +49,7 @@ Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adria
 Scroll down to see what I'm currently reading (assuming my Goodreads is up to date)!
 
 If any of this seems interesting to you, I'd love to connect!
-Feel free to reach out to me at [`eberes+web@cs.washington.edu`](mailto:eberes+web@cs.washington.edu).
+Feel free to reach out to me at [eberes+web@cs.washington.edu](mailto:eberes+web@cs.washington.edu).
 
 ## Research
 

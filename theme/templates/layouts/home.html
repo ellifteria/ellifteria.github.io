@@ -247,10 +247,15 @@
         </div>
         <div class="column">
 
-    <p class="subtitle">{{.PageParams.summary}}</p>
+    <p class="subtitle">/ {{.PageParams.summary}} /</p>
 
-    {{if or .PageParams.pronouns .PageParams.emojis}}
+    {{if .PageParams.email}}
     <p>
+        / <a href="mailto:{{.PageParams.email}}">{{.PageParams.email}}</a> /
+    </p>
+    {{end}}
+    {{if or .PageParams.pronouns .PageParams.emojis}}
+    <p>/
         {{if .PageParams.pronouns}}
             Pronouns: {{.PageParams.pronouns}}
         {{end}}
@@ -260,6 +265,7 @@
         {{if .PageParams.emojis}}
             {{.PageParams.emojis}}
         {{end}}
+        /
     </p>
     {{end}}
     <p>/
