@@ -2,12 +2,14 @@
 
 <div class="column">
     <div class="navigation">
-        /
+        ⫻
         {{range $nav := .SiteParams.navbarItems}}
             {{if eq $.PageParams.navbarName $nav.name}}
-                <a href="{{$nav.link}}" class="self">{{$nav.name}}</a> /
+                <a href="{{$nav.link}}" class="self">{{$nav.name}}</a>
+                ⫻
             {{else}}
-                <a href="{{$nav.link}}">{{$nav.name}}</a> /
+                <a href="{{$nav.link}}">{{$nav.name}}</a>
+                ⫻
             {{end}}
         {{end}}
     </div>

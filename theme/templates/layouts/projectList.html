@@ -23,9 +23,10 @@
                 <strong>{{$project.location}}</strong><em>{{$project.date}}</em><br>
             {{end}}
             <strong><em>{{$project.beginning}}</em></strong>{{$project.description}}<br>
-            /
+            ⫻
             {{range $link := $project.links}}
-                <a href="{{$link.link}}">{{$link.name}}</a> /
+                <a href="{{$link.link}}">{{$link.name}}</a>
+                ⫻
             {{end}}
             </p>
         {{end}}
