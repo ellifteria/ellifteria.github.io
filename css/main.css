@@ -1,4 +1,4 @@
-@import url("../fonts/turnip/fonts.css");
+@import url("../fonts/darwin-stylesheet.css");
 
 :root {
     --main-text-color: #333;
@@ -29,7 +29,7 @@ body {
 
     margin: auto 3vw auto auto;
     padding: 0 15px;
-    font-family: "Turnip", "Scaly Sans", "Roboto", Arial, sans-serif;
+    font-family: "Darwin", "Roboto", Arial, sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -157,7 +157,7 @@ a.self, a.self:hover, a.self:focus {
 }
 
 h1, h2, h3, h4, h5, h6, nav, #versioninfo {
-    font-family: "Turnip", "Scaly Sans", "Roboto",  Arial, sans-serif;
+    font-family: "Darwin", "Roboto",  Arial, sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
     color: var(--main-text-color);
