@@ -1,0 +1,40 @@
+{{define "base"}}
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <meta charset="UTF-8">
+        <link rel="stylesheet" href="/css/main.css">
+
+        {{template "header" .}}
+
+        {{template "favicons" .}}
+
+        {{template "additionStyle" .}}
+
+        <script>
+            if (typeof main === "undefined"){
+                var main = function() {};
+            }
+            main();
+        </script>
+
+    </head>
+
+    <body>
+        <div class="content">
+        <header>
+            {{template "navbar" .}}
+        </header>
+
+        {{template "content" .}}
+
+        <footer>
+            {{template "footer" .}}
+        </footer>
+        </div>
+    </body>
+
+</html>
+{{end}}

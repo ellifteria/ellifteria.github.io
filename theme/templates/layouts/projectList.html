@@ -1,0 +1,34 @@
+{{template "base" .}}
+
+{{define "header"}}
+    <title>{{.SiteParams.name}} | {{.PageParams.title}}</title>
+    <script src="/js/colorChanger.js"></script>
+{{end}}
+
+{{define "content"}}
+
+    <h1>{{.PageParams.title}}</h1>
+    <p class="subtitle">{{.PageParams.summary}}</p>
+
+
+    {{range $section := .PageParams.listSections}}
+        <h2 id="{{$section.name}}"><a class="anchor" href="#{{$section.name}}">#</a> {{$section.name}}</h2>
+        {{range $project := $section.items}}
+            <section id="{{$section.name}}--{{$project.id}}"><a class="anchor" href="#{{$section.name}}--{{$project.id}}">#</a> {{$project.name}}
+            </section>
+            <p>
+            {{if and $project.location $project.date}}
+                <strong>{{$project.location}}</strong> | <em>{{$project.date}}</em><br>
+            {{else if or $project.location $project.date}}
+                <strong>{{$project.location}}</strong><em>{{$project.date}}</em><br>
+            {{end}}
+            <strong><em>{{$project.beginning}}</em></strong>{{$project.description}}<br>
+            /
+            {{range $link := $project.links}}
+                <a href="{{$link.link}}">{{$link.name}}</a> /
+            {{end}}
+            </p>
+        {{end}}
+    {{end}}
+
+{{end}}
