@@ -3,13 +3,13 @@
 
 :root {
     --main-text-color: #333;
-    --contrast-text-color: #fff;
-    --background-color: #ebe8e2;
+    --contrast-text-color: #f2f5f7;
+    --background-color: #f2f5f7;
 }
 
 @media (prefers-color-scheme: dark) {
     :root {
-        --main-text-color: #f7f7f7;
+        --main-text-color: #f2f5f7;
         --background-color: #3b3b3b;
     }
 }
