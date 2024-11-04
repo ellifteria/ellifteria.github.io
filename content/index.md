@@ -7,8 +7,6 @@ socials:
         link: /resume/BERESELLIRESUME.pdf
     -   name: GitHub
         link: https://github.com/ellifteria
-    -   name: Mastodon
-        link: https://discuss.systems/@ellifteria
 navbarName: About
 pronouns: "she/her/hers"
 emojis: "🏳️‍🌈"
