@@ -4,7 +4,7 @@ summary: CS Ph.D. Student at the University of Washington Studying Software Engi
 template: home
 socials:
     -   name: CV
-        link: /resume/beres-eleftheria-resume.pdf
+        link: /cv/beres-eleftheria-cv.pdf
     -   name: GitHub
         link: https://github.com/ellifteria
 navbarName: About
