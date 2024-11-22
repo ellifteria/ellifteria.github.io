@@ -7,6 +7,8 @@ socials:
         link: /cv/beres-eleftheria-cv.pdf
     -   name: GitHub
         link: https://github.com/ellifteria
+    -   name: Bluesky
+        link: https://bsky.app/profile/ellifteria.bsky.social
 navbarName: About
 pronouns: "she/her/hers"
 emojis: "🏳️‍🌈"
