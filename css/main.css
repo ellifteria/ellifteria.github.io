@@ -31,10 +31,10 @@
 }
 
 :root {
-    --main-text-color: #4b2e83;
-    --contrast-text-color: #f0f0f0;
-    --background-color: #f0f0f0;
-    --main-color: #85754d;
+    --main-text-color: #0070bb;
+    --contrast-text-color: #eaeaea;
+    --background-color: #eaeaea;
+    --main-color: #00bfff;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -50,6 +50,14 @@
 
 .column {
     flex: 50%;
+}
+
+.column-30 {
+    flex: 30%;
+}
+
+.column-70 {
+    flex: 70%;
 }
 
 code{
@@ -110,8 +118,8 @@ img{
     border-radius: 8px;
     max-width: 50vw;
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-    -webkit-filter: sepia(100%) hue-rotate(210deg) brightness(70%);
-    filter: sepia(100%) hue-rotate(210deg) brightness(70%);
+    -webkit-filter: sepia(100%) hue-rotate(170deg) brightness(70%);
+    filter: sepia(100%) hue-rotate(170deg) brightness(70%);
 }
 
 
@@ -425,10 +433,10 @@ blockquote blockquote p:last-child{
 
 a {
     text-decoration: underline;
-    text-decoration-color: var(--main-text-color);
+    text-decoration-color: var(--main-color);
     text-decoration-thickness: .125em;
     text-underline-offset: 3px;
-    color: var(--main-color);
+    color: var(--main-text-color);
     background: transparent;
 }
 a:hover, a:focus {
