@@ -1,10 +1,40 @@
 @import url("../fonts/darwin-stylesheet.css");
 @import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+.lora-400 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.lora-500 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.lora-600 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.lora-700 {
+  font-family: "Lora", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
 
 :root {
-    --main-text-color: #333;
-    --contrast-text-color: #f2f5f7;
-    --background-color: #f2f5f7;
+    --main-text-color: #4b2e83;
+    --contrast-text-color: #f0f0f0;
+    --background-color: #f0f0f0;
+    --main-color: #85754d;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,7 +60,6 @@ body {
 
     margin: auto 3vw auto auto;
     padding: 0 15px;
-    font-family: "Hanken Grotesk", "Roboto", Arial, sans-serif;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -47,28 +76,6 @@ body {
 .section{
     display: inline-block;
     width: 100%;
-}
-
-.bookmarkImage {
-    float: left;
-    margin-left: 40px;
-    max-width: 5vw;
-}
-
-@media (max-width: 950px) {
-    .bookmarkImage{
-        display: none;
-    }
-}
-
-.backgroundBorder{
-    border: 8vw solid;
-    border-image-source: url("/backgroung-border-3.png");
-    border-image-slice: 208;
-    border-image-repeat: round;
-    margin: auto 3vw auto auto;
-
-    min-height: 100vh;
 }
 
 .content{
@@ -102,6 +109,15 @@ img{
     margin-right: 28px;
     border-radius: 8px;
     max-width: 50vw;
+    filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
+    -webkit-filter: sepia(100%) hue-rotate(210deg) brightness(70%);
+    filter: sepia(100%) hue-rotate(210deg) brightness(70%);
+}
+
+
+.avatar:hover {
+    -webkit-filter: none;
+    filter: none;
 }
 
 .pix {
@@ -127,7 +143,6 @@ figcaption {
 }
 
 header {
-    color: #999;
     width: 100%;
     top: 0;
     left: 0;
@@ -409,13 +424,16 @@ blockquote blockquote p:last-child{
 }
 
 a {
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-color: var(--main-text-color);
+    text-decoration-thickness: .125em;
+    text-underline-offset: 3px;
     color: var(--main-color);
     background: transparent;
 }
 a:hover, a:focus {
     color: var(--main-color);
-    text-decoration: underline;
+    text-decoration-color: var(--main-color);
 }
 a:focus {
     outline: thin dotted var(--main-color);

@@ -1,6 +1,5 @@
 ---
 title: Publications
-summary: Papers, Posters, Talks
 template: projectList
 navbarName: Publications
 listSections:

@@ -11,8 +11,6 @@
 
         {{template "favicons" .}}
 
-        {{template "additionStyle" .}}
-
         <script>
             if (typeof main === "undefined"){
                 var main = function() {};
@@ -22,7 +20,7 @@
 
     </head>
 
-    <body>
+    <body class="lora-400">
         <div class="content">
         <header>
             {{template "navbar" .}}

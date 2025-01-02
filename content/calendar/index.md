@@ -1,6 +1,5 @@
 ---
 title: Calendar
-summary: Here's my calendar!
 template: page
 navbarName: Calendar
 ---

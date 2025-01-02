@@ -1,8 +1,9 @@
 ---
 name: Elli Beres
+webAddress: "elliberes.me"
 navbarItems:
     -   name: About
-        link: /
+        link: /about
     -   name: Publications
         link: /publications
     -   name: Calendar
