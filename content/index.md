@@ -16,7 +16,6 @@ profilePic:
     path: "/profilePic400x400.jpeg"
     link: "/profilePic.jpeg"
     alt: "Elli Beres"
-includeGoodreads: true
 pageSections:
     -   name: About Me
         id: about-me
@@ -46,7 +45,6 @@ I'm dedicated to working to make computing a safe, supportive, and welcoming fie
 In my free time, I love reading, traveling, hiking, biking, and playing and especially GMing tabletop role-playing games like D&D.
 My favorite genres are fantasy, science fiction, and speculative fiction more broadly.
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
-Scroll down to see what I'm currently reading (assuming my Goodreads is up to date)!
 
 If any of this seems interesting to you, I'd love to connect!
 Feel free to reach out to me at [eberes+web@cs.washington.edu](mailto:eberes+web@cs.washington.edu).
