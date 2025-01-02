@@ -3,8 +3,6 @@ title: Eleftheria Anastasia Beres
 summary: Computer Student Ph.D. student at the University of Washington studying software engineering for scientists
 template: home
 socials:
-    -   name: CV
-        link: /cv/beres-eleftheria-cv.pdf
     -   name: GitHub
         link: https://github.com/ellifteria
     -   name: Bluesky
@@ -29,5 +27,10 @@ profilePic:
 #         id: teaching-experience
 #     -   name: My Bookshelf
 #         id: my-bookshelf
+pageLinks:
+    -   name: My CV
+        link: /cv/beres-eleftheria-cv.pdf
+    -   name: My Calendar
+        link: /calendar
 email: "eberes+web@cs.washington.edu"
 ---
