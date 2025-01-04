@@ -19,3 +19,7 @@ Check out my publications [here](publications)!
 
 - [Xenobot Group](https://www.xenobot.group/) @ the [Center for Robotics and Biosystems](https://robotics.northwestern.edu/) @ NU
 - [Leonard Lab](https://www.leonard.northwestern.edu/) @ the [Center for Synthetic Biology](https://syntheticbiology.northwestern.edu/) @ NU
+
+## Internal research wiki
+
+For internal collaborators at UW and UW CSE, my internal research wiki is [here](https://homes.cs.washington.edu/~eberes/) \(requires UW or UW CSE login\)!
