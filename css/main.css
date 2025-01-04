@@ -70,7 +70,7 @@ body {
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
-    line-height: 1.428571429;
+    line-height: 2em;
     
     -webkit-font-feature-settings: "kern", "liga";
     -moz-font-feature-settings: "kern", "liga";
