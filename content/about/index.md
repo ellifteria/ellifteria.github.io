@@ -4,7 +4,7 @@ template: page
 navbarName: About
 ---
 
-## About Me
+## About me
 
 Hi! I'm Elli.
 I'm a [Computer Science & Engineering](https://www.cs.washington.edu) Ph.D. student at the [University of Washington](https://www.washington.edu).

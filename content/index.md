@@ -1,6 +1,6 @@
 ---
 title: Eleftheria Anastasia Beres
-summary: Computer Student Ph.D. student at the University of Washington studying software engineering for scientists
+summary: Computer Student Ph.D. student at the University of Washington researching software engineering for scientists
 template: home
 socials:
     -   name: GitHub
