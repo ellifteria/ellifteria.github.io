@@ -1,39 +1,82 @@
-@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:ital,wght@0,100..900;1,100..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
-.lora-400 {
-  font-family: "Lora", serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+.dm-sans-1000 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 1000;
+    font-style: normal;
 }
 
-.lora-500 {
-  font-family: "Lora", serif;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
+.dm-sans-900 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
 }
 
-.lora-600 {
-  font-family: "Lora", serif;
-  font-optical-sizing: auto;
-  font-weight: 600;
-  font-style: normal;
+.dm-sans-800 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-style: normal;
 }
 
-.lora-700 {
-  font-family: "Lora", serif;
-  font-optical-sizing: auto;
-  font-weight: 700;
-  font-style: normal;
+.dm-sans-700 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+.dm-sans-600 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.dm-sans-500 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.dm-sans-400 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.dm-sans-300 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.dm-sans-200 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.dm-sans-100 {
+    font-family: "DM Sans", serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
 }
 
 :root {
-    --main-text-color: #0070bb;
+    --main-accent-color: #5D3FD3;
+    --main-text-color: #3b3b3b;
     --contrast-text-color: #eaeaea;
     --background-color: #eaeaea;
-    --main-color: #00bfff;
+    --main-color: #CF9FFF;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -80,6 +123,10 @@ body {
     min-height: 100vh;
 }
 
+.triple-line{
+    color: var(--main-accent-color);
+}
+
 .section{
     display: inline-block;
     width: 100%;
@@ -117,8 +164,8 @@ img{
     border-radius: 8px;
     max-width: 50vw;
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
-    -webkit-filter: sepia(100%) hue-rotate(170deg) brightness(70%);
-    filter: sepia(100%) hue-rotate(170deg) brightness(70%);
+    -webkit-filter: sepia(100%) hue-rotate(225deg) brightness(70%);
+    filter: sepia(100%) hue-rotate(225deg) brightness(70%);
 }
 
 
@@ -168,7 +215,7 @@ header {
 .breadcrumb {
     font-weight: 500;
     font-size: 32px;
-    color: var(--main-text-color);
+    color: var(--main-accent-color);
 }
 
 a.self, a.self:hover, a.self:focus {
@@ -179,11 +226,12 @@ a.self, a.self:hover, a.self:focus {
     background-color: var(--main-color);
 }
 
-h1, h2, h3, h4, h5, h6, nav, #versioninfo {
+/* h1, h2, h3, h4, h5, h6, nav, #versioninfo {
     font-family: "Hanken Grotesk", "Roboto",  Arial, sans-serif;
-}
+} */
+
 h1, h2, h3, h4, h5, h6 {
-    color: var(--main-text-color);
+    color: var(--main-accent-color);
     font-weight: 100;
     line-height: 1.1;
     position: relative;
@@ -193,7 +241,7 @@ h2:not(.goodreads h2):before, h3:before, h4:before, h5:before, h6:before,
 h2:not(.goodreads h2):after, h3:after, h4:after, h5:after, h6:after {
     display: inline-block;
     content: "";
-    border-top: .3rem solid var(--main-text-color);
+    border-top: .3rem solid var(--main-accent-color);
     width: 4rem;
     margin: 0 1rem;
     transform: translateY(-0.3rem);
@@ -435,7 +483,7 @@ a {
     text-decoration-color: var(--main-color);
     text-decoration-thickness: .125em;
     text-underline-offset: 3px;
-    color: var(--main-text-color);
+    color: var(--main-accent-color);
     background: transparent;
 }
 a:hover, a:focus {

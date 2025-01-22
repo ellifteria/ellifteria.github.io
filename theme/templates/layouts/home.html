@@ -246,34 +246,34 @@
         <div class="column-70">
 
     <p class="subtitle">
-        ⫻
+        <span class="triple-line">⫻</span>
         {{.PageParams.summary}}
-        ⫻
+        <span class="triple-line">⫻</span>
     </p>
 
     {{if .PageParams.email}}
     <p>
-        ⫻ <a href="mailto:{{.PageParams.email}}">{{.PageParams.email}}</a> ⫻
+        <span class="triple-line">⫻</span> <a href="mailto:{{.PageParams.email}}">{{.PageParams.email}}</a> <span class="triple-line">⫻</span>
     </p>
     {{end}}
     {{if or .PageParams.pronouns .PageParams.emojis}}
-    <p>⫻
+    <p><span class="triple-line">⫻</span>
         {{if .PageParams.pronouns}}
             {{.PageParams.pronouns}}
         {{end}}
         {{if and .PageParams.pronouns .PageParams.emojis}}
-            ⫻
+            <span class="triple-line">⫻</span>
         {{end}}
         {{if .PageParams.emojis}}
             {{.PageParams.emojis}}
         {{end}}
-        ⫻
+        <span class="triple-line">⫻</span>
     </p>
     {{end}}
-    <p>⫻
+    <p><span class="triple-line">⫻</span>
         {{range $social := .PageParams.socials}}
         <a href="{{$social.link}}" {{if eq $social.name "Mastodon"}}rel="me"{{end}}>{{$social.name}}</a>
-        ⫻
+        <span class="triple-line">⫻</span>
         {{end}}
     </p>
     <ul>

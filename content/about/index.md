@@ -23,7 +23,7 @@ Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adria
 
 If any of this seems interesting to you, I'd love to connect—feel free to reach out!
 
-## Teaching Experience
+## Teaching experience
 
 - *Peer Mentor* @ NU: COMP_SCI 349 Machine Learning, Summer 2024
 - *Peer Mentor* @ NU: COMP_SCI 349 Machine Learning, Spring 2024
