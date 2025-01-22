@@ -83,6 +83,8 @@
     :root {
         --main-text-color: #f2f5f7;
         --background-color: #3b3b3b;
+        --main-color: #5D3FD3;
+        --main-accent-color: #CF9FFF;
     }
 }
 
