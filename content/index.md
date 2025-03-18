@@ -1,6 +1,6 @@
 ---
 title: Eleftheria Anastasia Beres
-summary: Computer Student Ph.D. student at the University of Washington researching software engineering for scientists
+summary: CSE PhD Student at the University of Washington Researching Software Engineering for Scientists
 template: home
 socials:
     -   name: GitHub
@@ -12,7 +12,6 @@ socials:
     -   name: Instagram
         link: https://www.instagram.com/ellifteria/
 pronouns: "she/her/hers"
-emojis: "🏳️‍🌈"
 profilePic:
     path: "/profilePic400x400.jpeg"
     link: "/profilePic.jpeg"
