@@ -9,17 +9,16 @@ socials:
         link: https://bsky.app/profile/ellifteria.bsky.social
     -   name: Goodreads
         link: https://www.goodreads.com/user/show/65202258-elli-beres
-    -   name: Instagram
-        link: https://www.instagram.com/ellifteria/
+    -   name: My CV
+        link: /cv/beres-eleftheria-cv.pdf
 pronouns: "she/her/hers"
 profilePic:
     path: "/profilePic400x400.jpeg"
     link: "/profilePic.jpeg"
     alt: "Elli Beres"
 pageLinks:
-    -   name: My CV
-        link: /cv/beres-eleftheria-cv.pdf
     -   name: My calendar
         link: /calendar
+navbarName: Home
 email: "eberes+web@cs.washington.edu"
 ---

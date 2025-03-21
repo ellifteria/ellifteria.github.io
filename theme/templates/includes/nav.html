@@ -1,6 +1,7 @@
 {{define "navbar"}}
 
-<div class="column">
+<!-- <div class="column"> -->
+    <hr>
     <div class="navigation">
         <span class="triple-line">⫻</span>
         {{range $nav := .SiteParams.navbarItems}}
@@ -13,9 +14,7 @@
             {{end}}
         {{end}}
     </div>
-    <div class="breadcrumb">
-        <a href="/">{{.SiteParams.webAddress}}</a>
-    </div>
-</div>
+    <hr>
+<!-- </div> -->
 
 {{end}}
