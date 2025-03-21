@@ -1,28 +1,28 @@
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
 
 .dm-sans-1000 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 1000;
     font-style: normal;
 }
 
 .dm-sans-900 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 900;
     font-style: normal;
 }
 
 .dm-sans-800 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 800;
     font-style: normal;
 }
 
 .dm-sans-700 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
@@ -30,49 +30,49 @@
 
 
 .dm-sans-600 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 600;
     font-style: normal;
 }
 
 .dm-sans-500 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 500;
     font-style: normal;
 }
 
 .dm-sans-400 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
 }
 
 .dm-sans-300 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 300;
     font-style: normal;
 }
 
 .dm-sans-200 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 200;
     font-style: normal;
 }
 
 .dm-sans-100 {
-    font-family: "DM Sans", serif;
+    font-family: "DM Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 100;
     font-style: normal;
 }
 
 :root {
-    --main-accent-color: #`13457D5;
+    --main-accent-color: #13457D;
     --main-text-color: #3b3b3b;
     --contrast-text-color: #140a0a;
     --background-color: #eaeaea;
@@ -109,9 +109,8 @@ code{
 }
 
 body {
-
-    margin: auto 3vw auto auto;
-    padding: 0 15px;
+    width: 75%;
+    margin: auto;
     font-size: 18px;
     font-weight: 400;
     color: var(--main-text-color);
@@ -123,6 +122,14 @@ body {
     background-color: var(--background-color);
 
     min-height: 100vh;
+
+    justify-content: center;
+    text-align: center;
+}
+
+.main {
+    text-align: start;
+    justify-content: unset;
 }
 
 .triple-line{
@@ -160,11 +167,9 @@ img{
 }
 
 .avatar {
-    float: left;
     border: 0px;
-    margin-right: 28px;
-    border-radius: 8px;
-    max-width: 50vw;
+    border-radius: 10%;
+    max-width: 25vh;
     filter: url("data:image/svg+xml;utf8,<svg xmlns=\'http://www.w3.org/2000/svg\'><filter id=\'grayscale\'><feColorMatrix type=\'matrix\' values=\'0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0.3333 0.3333 0.3333 0 0 0 0 0 1 0\'/></filter></svg>#grayscale");
     -webkit-filter: sepia(100%) hue-rotate(190deg) brightness(67.5%);
     filter: sepia(100%) hue-rotate(190deg) brightness(67.5%);
@@ -174,6 +179,18 @@ img{
 .avatar:hover {
     -webkit-filter: none;
     filter: none;
+}
+
+a.avatarLink {
+    display: inline-block;
+}
+
+.icon {
+    border: 0px;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    border-radius: 100%;
+    max-width: 10vh;
 }
 
 .pix {
@@ -206,31 +223,26 @@ header {
 }
 
 .info {
-    font-size: 8px;
+    font-size: 0.5rem;
 }
 
 .navigation {
-    float: right;
-    font-size:18px;
+    text-align: right;
+    font-size:1.5rem;
 }
 
 .breadcrumb {
     font-weight: 500;
-    font-size: 32px;
+    font-size: 3rem;
     color: var(--main-accent-color);
 }
 
 a.self, a.self:hover, a.self:focus {
-    color: var(--contrast-text-color);
     border-radius:5px;
     border: 1px var(--main-color) solid;
     overflow: hidden;
     background-color: var(--main-color);
 }
-
-/* h1, h2, h3, h4, h5, h6, nav, #versioninfo {
-    font-family: "Hanken Grotesk", "Roboto",  Arial, sans-serif;
-} */
 
 h1, h2, h3, h4, h5, h6 {
     color: var(--main-accent-color);
@@ -249,8 +261,8 @@ h2:not(.goodreads h2):after, h3:after, h4:after, h5:after, h6:after {
     transform: translateY(-0.3rem);
 }
 h1, h2, h3 {
-    margin-top: 50px;
-    margin-bottom: 10px;
+    margin-top: 1vh;
+    margin-bottom: 0.5vh;
 }
 
 h4, h5, h6 {
@@ -261,12 +273,12 @@ h4, h5, h6 {
 h1 {
     font-weight: 300;
     padding: 0 0;
-    font-size: 72px;
+    font-size: 4rem;
     margin-bottom: 20px;
 }
 
 h1.title {
-    font-size: 65px;
+    font-size: 4rem;
     font-weight: 500;
     margin-right: 20px;
     margin-top: 0px;
@@ -277,7 +289,7 @@ h1.title {
 }
 
 a.top-version {
-    font-size: 15px;
+    font-size: 1rem;
     color: var(--contrast-text-color);
     border-radius:5px;
     border: 1px var(--main-color) solid;
@@ -286,7 +298,7 @@ a.top-version {
 }
 
 h1.subtitle {
-    font-size: 25px;
+    font-size: 2rem;
     font-weight: 500;
     margin-right: 20px;
     margin-top: 0px;
@@ -299,7 +311,7 @@ h1.subtitle {
 
 h2.author {
     line-height: 1.8em;
-    font-size: 20px;
+    font-size: 1.8rem;
     font-weight: 100;
     margin-right: 0px;
     margin-top: -40px;
@@ -311,7 +323,7 @@ h2.author {
 
 h3.extras {
     line-height: 1.8em;
-    font-size: 18px;
+    font-size: 1.6rem;
     font-weight: 100;
     margin-right: 0px;
     margin-top: -55px;
@@ -327,26 +339,26 @@ h3.extras {
 }
 
 h2 {
-    font-size: 32px;
+    font-size: 2rem;
 }
 h3 {
-    font-size: 28px;
+    font-size: 1.8rem;
 }
 h4 {
-    font-size: 22px;
+    font-size: 1.6rem;
 }
 h5 {
-    font-size: 18px;
+    font-size: 1.4rem;
 }
 h6 {
-    font-size: 16px;
+    font-size: 1.2rem;
 }
 
 nav {
-    column-count: 2;
-    -moz-column-count: 2;
     -webkit-column-count: 2;
-    font-size: 15px;
+    -moz-column-count: 2;
+    column-count: 2;
+    font-size: 1rem;
     margin: 0 0 1em 0;
 }
 
@@ -358,21 +370,17 @@ strong {
     font-weight: 600;
 }
 
-/* p.subtitle {
-    font-weight: 600;
-} */
-
 em {
     font-style: italic;
 }
 
 .footnotes {
-    font-size:85%;
+    font-size:1rem;
 }
 
 footer {
     border-top: 1px solid #ddd;
-    font-size: 14px;
+    font-size: 1rem;
     color: #ccc;
     text-align: justify;
     padding-top: 5px;
@@ -474,7 +482,7 @@ blockquote blockquote p:first-child{
 
 blockquote blockquote p:last-child{
     color: white;
-    font-size: .8em;
+    font-size: .8rem;
     font-variant: normal;
     text-align: right;
     font-weight: 100;
@@ -517,7 +525,7 @@ pre {
     padding: 14px;
     padding-right: 0;
     margin: 20px 0;
-    font-size: 13px;
+    font-size: 1rem;
     word-break: break-all;
     word-wrap: break-word;
 }
@@ -618,10 +626,11 @@ sup {
 }
 
 hr {
-    margin-top: 20px;
-    margin-bottom: 20px;
     border: 0;
-    border-top: 1px solid #eeeeee;
+    color: var(--main-accent-color);
+    background-color: var(--main-accent-color);
+    size: 10rem;
+    height: 0.3vh;
 }
 
 table {
@@ -655,16 +664,6 @@ caption {
 
 table tr.even {
     background: #F5F5F5;
-}
-
-@media (min-width: 1170px) {
-    pre {
-        font-size: 14px;
-    }
-    
-    pre.sourceCode.bibtex {
-        font-size: 12px;
-    }
 }
 
 @media print {
