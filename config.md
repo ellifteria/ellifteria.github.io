@@ -9,7 +9,7 @@ navbarItems:
     -   name: Research
         link: /research
 icon:
-    path: "/linbwoman-uw-gold-purple.png"
-    link: "/linbwoman-uw-gold-purple.png"
+    path: "/linbwoman-site-colors.png"
+    link: "/"
     alt: "EAB"
 ---
