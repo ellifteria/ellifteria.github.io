@@ -10,6 +10,6 @@ listSections:
                 beginning: "Beres E"
                 description: ", et al. PyFlowBAT: An Open-Source Software Package for Performing High-Throughput Batch Analysis of Flow Cytometry Data. Poster presented at: EBRC Annual Meeting; 2023 Jun 5-6; Evanston, IL."
                 links:
-                    -   link: /research/publications/ebrc/poster.png
+                    -   link: ebrc/poster.png
                         name: Poster
 ---
