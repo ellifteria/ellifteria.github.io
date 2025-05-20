@@ -22,13 +22,3 @@ My favorite genres are fantasy, science fiction, and speculative fiction more br
 Some of my favorite authors include Christopher Ruocchio, Ursula K LeGuin, Adrian Tchaikovsky, Brandon Sanderson, and J.R.R. Tolkien.
 
 If any of this seems interesting to you, I'd love to connect—feel free to reach out!
-
-## Teaching experience
-
-- *Peer Mentor* @ NU: COMP_SCI 349 Machine Learning, Summer 2024
-- *Peer Mentor* @ NU: COMP_SCI 349 Machine Learning, Spring 2024
-- *Peer Mentor* @ NU: COMP_SCI 397 Artificial Life, Winter 2024
-- *Peer Mentor* @ NU: GEN_ENG 205-1 Engineering Analysis 1, Fall 2023
-- *Peer Mentor* @ NU: BMD_ENG 220 Introduction to Biostatistics, Fall 2023
-- *Peer Mentor* @ NU: DATA_ENG 200 Foundations of Data Science, Winter 2023
-- *Peer Mentor* @ NU: BMD_ENG 220 Introduction to Biostatistics, Fall 2022

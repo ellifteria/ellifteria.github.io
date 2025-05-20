@@ -13,13 +13,18 @@ If you're a scientist who writes any code for your research, please reach out!
 
 ## My publications
 
-Check out my publications [here](publications)!
+Check out my publications [here](../publications)!
 
-### Past research experiences
+## Other research affiliations
+
+- [Leonard Lab](https://www.leonard.northwestern.edu/) @ the [Center for Synthetic Biology](https://syntheticbiology.northwestern.edu/) @ NU
+- [Dunham Lab](https://depts.washington.edu/dunhamlab/) @ the [Department of Genome Sciences](http://www.gs.washington.edu/) @ UW
+
+## Past research experiences
 
 - [Xenobot Group](https://www.xenobot.group/) @ the [Center for Robotics and Biosystems](https://robotics.northwestern.edu/) @ NU
-- [Leonard Lab](https://www.leonard.northwestern.edu/) @ the [Center for Synthetic Biology](https://syntheticbiology.northwestern.edu/) @ NU
 
-## Internal research wiki
+[//]: # (## Internal research wiki)
 
-For internal collaborators at UW and UW CSE, my internal research wiki is [here](https://homes.cs.washington.edu/~eberes/) \(requires UW or UW CSE login\)!
+[//]: # ()
+[//]: # (For internal collaborators at UW and UW CSE, my internal research wiki is [here]&#40;https://homes.cs.washington.edu/~eberes/&#41; \&#40;requires UW or UW CSE login\&#41;!)
