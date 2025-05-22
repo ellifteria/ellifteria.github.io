@@ -1,20 +1,18 @@
 {{define "navbar"}}
 
-<!-- <div class="column"> -->
-    <hr>
-    <div class="navigation">
-        <span class="triple-line">⫻</span>
-        {{range $nav := .SiteParams.navbarItems}}
-            {{if eq $.PageParams.navbarName $nav.name}}
-                <a href="{{$nav.link}}" class="self">{{$nav.name}}</a>
-                <span class="triple-line">⫻</span>
-            {{else}}
-                <a href="{{$nav.link}}">{{$nav.name}}</a>
-                <span class="triple-line">⫻</span>
-            {{end}}
-        {{end}}
-    </div>
-    <hr>
-<!-- </div> -->
+<hr>
+<div class="navigation">
+    <span class="triple-line">⫻</span>
+    {{range $nav := .SiteParams.navbarItems}}
+    {{if eq $.PageParams.navbarName $nav.name}}
+    <a href="{{$nav.link}}" class="self">{{$nav.name}}</a>
+    <span class="triple-line">⫻</span>
+    {{else}}
+    <a href="{{$nav.link}}">{{$nav.name}}</a>
+    <span class="triple-line">⫻</span>
+    {{end}}
+    {{end}}
+</div>
+<hr>
 
 {{end}}

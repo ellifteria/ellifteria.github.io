@@ -2,24 +2,17 @@
 
 {{define "header"}}
 <title>{{.SiteParams.name}}</title>
-<script src="/js/colorChanger.js"></script>
 {{end}}
 
 {{define "content"}}
 
 <div class="section">
     <h1>{{.PageParams.title}}</h1>
-    <!-- <div class="row"> -->
-        <!-- <div class="column-30"> -->
-
     {{if .PageParams.profilePic}}
     <a class="avatarLink" href="{{.PageParams.profilePic.link}}">
         <img class="avatar" src="{{.PageParams.profilePic.path}}" alt="{{.PageParams.profilePic.alt}}" width="300">
     </a>
     {{end}}
-
-        <!-- </div> -->
-        <!-- <div class="column-70"> -->
 
     <p class="subtitle">
         <span class="triple-line">⫻</span>
@@ -35,13 +28,13 @@
     {{if or .PageParams.pronouns .PageParams.emojis}}
     <p><span class="triple-line">⫻</span>
         {{if .PageParams.pronouns}}
-            {{.PageParams.pronouns}}
+        {{.PageParams.pronouns}}
         {{end}}
         {{if and .PageParams.pronouns .PageParams.emojis}}
-            <span class="triple-line">⫻</span>
+        <span class="triple-line">⫻</span>
         {{end}}
         {{if .PageParams.emojis}}
-            {{.PageParams.emojis}}
+        {{.PageParams.emojis}}
         {{end}}
         <span class="triple-line">⫻</span>
     </p>
@@ -58,18 +51,11 @@
         <span class="triple-line">⫻</span>
     </p>
     {{end}}
-
-
-        <!-- </div> -->
-
-    <!-- </div> -->
-
 </div>
 
 
 <div class="section">
     {{ .Body }}
-
 </div>
 
 {{end}}

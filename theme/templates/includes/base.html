@@ -2,38 +2,38 @@
 <!DOCTYPE html>
 <html>
 
-    <head>
+<head>
 
-        <meta charset="UTF-8">
-        <link rel="stylesheet" href="/css/main.css">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="/css/main.css">
 
-        {{template "header" .}}
+    {{template "header" .}}
 
-        {{template "favicons" .}}
+    {{template "favicons" .}}
 
-        <script>
-            if (typeof main === "undefined"){
-                var main = function() {};
-            }
-            main();
-        </script>
+    <script>
+        if (typeof main === "undefined"){
+            var main = function() {};
+        }
+        main();
+    </script>
 
-    </head>
+</head>
 
-    <body class="lato-regular">
-        <div class="content">
-        <header>
-            {{template "icon" .}}
-            {{template "navbar" .}}
-        </header>
+<body class="lato-regular">
+<div class="content">
+    <header>
+        {{template "icon" .}}
+        {{template "navbar" .}}
+    </header>
 
-        {{template "content" .}}
+    {{template "content" .}}
 
-        <footer>
-            {{template "footer" .}}
-        </footer>
-        </div>
-    </body>
+    <footer>
+        {{template "footer" .}}
+    </footer>
+</div>
+</body>
 
 </html>
 {{end}}

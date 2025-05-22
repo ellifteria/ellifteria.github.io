@@ -1,17 +1,16 @@
 {{template "base" .}}
 
 {{define "header"}}
-    <title>{{.SiteParams.name}} | {{.PageParams.title}}</title>
-    <script src="/js/colorChanger.js"></script>
+<title>{{.SiteParams.name}} | {{.PageParams.title}}</title>
 {{end}}
 
 {{define "content"}}
 
-    <h1>{{.PageParams.title}}</h1>
-    <p class="subtitle">{{.PageParams.summary}}</p>
+<h1>{{.PageParams.title}}</h1>
+<p class="subtitle">{{.PageParams.summary}}</p>
 
-    <div class="main">
-        {{ .Body }}
-    </div>
+<div class="main">
+    {{ .Body }}
+</div>
 
 {{end}}

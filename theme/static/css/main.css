@@ -342,14 +342,6 @@ a.avatarLink {
     display: inline-block;
 }
 
-.pix {
-    float: left;
-    border: 0;
-    margin-right: 8px;
-}
-
-
-
 figure {
     margin:0;
     display: block;
