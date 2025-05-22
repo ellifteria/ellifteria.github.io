@@ -633,19 +633,20 @@ a:focus {
 a:hover, a:active {
     outline: 0;
 }
-a.self, a.self:hover, a.self:focus {
+
+a.navbarItem {
     border-radius: 5px;
-    border: 1px var(--link-highlight-color) solid;
+    border: 1px var(--background-color) solid;
     overflow: hidden;
+}
+a.selectedNavbarItem, a.selectedNavbarItem:hover, a.selectedNavbarItem:focus {
+    border: 1px var(--link-highlight-color) solid;
     background-color: var(--link-highlight-color);
     color: var(--background-color);
     text-decoration-color: var(--link-highlight-color);
     text-decoration: none;
 }
 
-h1 a:link, h1 a:visited, h2 a:link, h2 a:visited,
-h3 a:link, h3 a:visited, h4 a:link, h4 a:visited,
-h5 a:link, h5 a:visited {color: var(--link-highlight-color);}
 h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover,
 h5 a:hover {text-decoration: none;}
 

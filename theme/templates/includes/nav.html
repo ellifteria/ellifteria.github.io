@@ -5,10 +5,10 @@
     <span class="triple-line">⫻</span>
     {{range $nav := .SiteParams.navbarItems}}
     {{if eq $.PageParams.navbarName $nav.name}}
-    <a href="{{$nav.link}}" class="self">{{$nav.name}}</a>
+    <a href="{{$nav.link}}" class="navbarItem selectedNavbarItem">{{$nav.name}}</a>
     <span class="triple-line">⫻</span>
     {{else}}
-    <a href="{{$nav.link}}">{{$nav.name}}</a>
+    <a href="{{$nav.link}}" class="navbarItem">{{$nav.name}}</a>
     <span class="triple-line">⫻</span>
     {{end}}
     {{end}}
